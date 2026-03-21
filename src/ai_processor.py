@@ -1,17 +1,16 @@
 import os
 import json
-import time
-from google import genai
+import anthropic
 from dotenv import load_dotenv
 
 load_dotenv()
 
 class AIProcessor:
     def __init__(self):
-        api_key = os.getenv('GEMINI_API_KEY')
+        api_key = os.getenv('ANTHROPIC_API_KEY')
         if not api_key:
-            raise ValueError("GEMINI_API_KEY mancante!")
-        self.client = genai.Client(api_key=api_key)
+            raise ValueError("ANTHROPIC_API_KEY mancante!")
+        self.client = anthropic.Anthropic(api_key=api_key)
 
     def process_posts(self, posts):
         if not posts:
@@ -49,45 +48,22 @@ Restituisci l'output ESCLUSIVAMENTE in formato JSON valido come Array di oggetti
 Ecco i post da analizzare:
 """ + text_to_analyze
 
-        models_to_try = ["gemini-2.0-flash-lite", "gemini-2.0-flash", "gemini-1.5-flash"]
+        print("Invio dati a Claude Sonnet...")
+        try:
+            response = self.client.messages.create(
+                model="claude-sonnet-4-20250514",
+                max_tokens=4096,
+                messages=[
+                    {"role": "user", "content": prompt}
+                ]
+            )
+            text = response.content[0].text
+            if "```json" in text:
+                text = text.split("```json")[1].split("```")[0]
+            elif "```" in text:
+                text = text.split("```")[1].split("```")[0]
 
-        for model_name in models_to_try:
-            for attempt in range(3):
-                print("Invio dati a Gemini (modello: " + model_name + ", tentativo " + str(attempt + 1) + ")...")
-                try:
-                    response = self.client.models.generate_content(
-                        model=model_name,
-                        contents=prompt
-                    )
-                    text = response.text
-                    if "```json" in text:
-                        text = text.split("```json")[1].split("```")[0]
-                    elif "```" in text:
-                        text = text.split("```")[1].split("```")[0]
-
-                    result = json.loads(text.strip())
-                    print("Successo con modello " + model_name + "!")
-                    return result
-                except Exception as e:
-                    error_str = str(e)
-                    print("Errore: " + error_str)
-                    if "429" in error_str or "RESOURCE_EXHAUSTED" in error_str:
-                        if attempt < 2:
-                            print("Aspetto 35 secondi e riprovo...")
-                            time.sleep(35)
-                            continue
-                        else:
-                            print("Quota esaurita per " + model_name + ", provo il prossimo modello...")
-                            break
-                    elif "404" in error_str or "not found" in error_str:
-                        print("Modello " + model_name + " non disponibile, provo il prossimo...")
-                        break
-                    else:
-                        print("Errore imprevisto, riprovo...")
-                        if attempt < 2:
-                            time.sleep(10)
-                            continue
-                        break
-
-        print("Tutti i modelli hanno fallito.")
-        return []
+            return json.loads(text.strip())
+        except Exception as e:
+            print("Errore durante l'elaborazione IA: " + str(e))
+            return []
