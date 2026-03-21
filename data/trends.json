@@ -1,35 +1,11 @@
 {
-  "last_update": "2024-10-25T09:15:00Z",
+  "last_update": "Dato dimostrativo (Mancano API Keys)",
   "trends": [
     {
-      "trend_name": "Partita IVA Forfettaria e Residenza Estera",
+      "trend_name": "Regime Forfettario 2024",
       "frequency": "Alta",
-      "main_question": "Quali sono i reali requisiti e i rischi per mantenere il regime forfettario spostando la residenza fiscale all'estero (es. Canarie)?",
-      "content_idea": "Video Reels: 'Attenzione alle finte residenze estere: 3 cose che l'Agenzia delle Entrate controlla subito se hai una P.IVA'."
-    },
-    {
-      "trend_name": "Dimissioni per Giusta Causa e Mobbing",
-      "frequency": "Alta",
-      "main_question": "Come si raccolgono prove legali per dimettersi per giusta causa a seguito di mobbing o straordinari non pagati, per ottenere la disoccupazione NASpI?",
-      "content_idea": "Carosello Instagram: 'Vuoi dimetterti per mobbing lavorativo? Ecco le 3 prove intoccabili da raccogliere PRIMA di inviare la lettera'."
-    },
-    {
-      "trend_name": "Tassazione Crypto e Quadro RW",
-      "frequency": "Media",
-      "main_question": "Come vanno dichiarati gli investimenti in criptovalute nel Modello Redditi / Quadro RW se si trovano su exchange esteri non regolamentati in Italia?",
-      "content_idea": "Post Blog: 'Crypto e Quadro RW 2024: la guida definitiva per non prendere multe salate dall'Agenzia delle Entrate'."
-    },
-    {
-      "trend_name": "Recupero Crediti da Clienti Inadempienti",
-      "frequency": "Media",
-      "main_question": "Qual è l'iter legale più veloce (e meno costoso) per recuperare un credito inferiore a 5.000€ da un fornitore o cliente che non paga le fatture?",
-      "content_idea": "Video Youtube: 'Fattura non pagata? La procedura veloce per il decreto ingiuntivo sotto i 5k che ti salva il bilancio'."
-    },
-    {
-      "trend_name": "Welfare Aziendale e Revoca Buoni Pasto",
-      "frequency": "Bassa",
-      "main_question": "Il datore di lavoro può revocare unilateralmente i buoni pasto se l'azienda decide di mettere il 100% dei dipendenti in Smart Working a tempo indeterminato?",
-      "content_idea": "Tiktok: 'Ti hanno tolto i buoni pasto appena sei andato in Smart Working? Ecco cosa dice di preciso la legge in Italia'."
+      "main_question": "Quali sono i limiti reali di spesa per il forfettario?",
+      "content_idea": "Video Youtube: I 3 miti da sfatare sul Regime Forfettario."
     }
   ]
 }
