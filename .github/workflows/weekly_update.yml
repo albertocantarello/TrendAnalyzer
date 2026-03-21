@@ -2,7 +2,7 @@ name: Weekly Trend Analysis
 
 on:
   schedule:
-    - cron: "0 8 * * 1"
+    - cron: "0 16 * * 4"
   workflow_dispatch:
 
 jobs:
