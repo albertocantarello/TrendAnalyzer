@@ -87,9 +87,7 @@ class RedditScraper:
         return all_posts
 
     def get_weekly_posts(self):
-        target_subs = ['Avvocati', 'commercialisti', 'ItaliaPersonalFinance', 'ItaliaCareerAdvice']
-        general_subs = ['italy', 'Italia']
-        keywords = ['commercialista', 'avvocato', 'tasse', 'licenziamento', 'legale', 'dimissioni']
+        target_subs = ['consulentidellavoro', 'Avvocati', 'commercialisti']
 
         all_posts = []
 
@@ -100,30 +98,6 @@ class RedditScraper:
             count_after = len(all_posts)
             print(f"  r/{sub_name}: {count_after - count_before} post degli ultimi 7 giorni")
             time.sleep(1)
-
-        print("Scaricando dai subreddit generalisti (ricerca per keyword)...")
-        for sub_name in general_subs:
-            for kw in keywords:
-                try:
-                    url = f"https://www.reddit.com/r/{sub_name}/search.rss?q={kw}&restrict_sr=on&t=week"
-                    feed = feedparser.parse(url)
-                    for entry in feed.entries[:10]:
-                        full_id = entry.get('id', '')
-                        short_id = full_id.split('/')[-1] if '/' in full_id else full_id
-                        if not any(p['id'] == short_id for p in all_posts):
-                            post_date = self._parse_entry_date(entry)
-                            all_posts.append({
-                                "id": short_id,
-                                "title": entry.get('title', ''),
-                                "selftext": entry.get('summary', ''),
-                                "url": entry.get('link', ''),
-                                "subreddit": sub_name,
-                                "source_type": "keyword_search",
-                                "published": post_date.isoformat() if post_date else ""
-                            })
-                    time.sleep(1)
-                except Exception as e:
-                    print(f"  Errore cercando '{kw}' in r/{sub_name}: {e}")
 
         print(f"Totale post raccolti: {len(all_posts)}")
         return all_posts
