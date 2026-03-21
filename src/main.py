@@ -20,11 +20,32 @@ def main():
         print("Nessun post trovato.")
         return
 
+    # 1b. Salva i post raw per trasparenza e debug
+    os.makedirs("data", exist_ok=True)
+    raw_file = os.path.join("data", "raw_posts.json")
+    raw_data = {
+        "scraped_at": datetime.now().isoformat(),
+        "total_posts": len(posts),
+        "posts": posts
+    }
+    with open(raw_file, "w", encoding="utf-8") as f:
+        json.dump(raw_data, f, indent=2, ensure_ascii=False)
+    print(f"Post raw salvati in {raw_file} per verifica.")
+
+    # Mostra distribuzione per subreddit
+    sub_counts = {}
+    for p in posts:
+        sub = p.get('subreddit', 'unknown')
+        sub_counts[sub] = sub_counts.get(sub, 0) + 1
+    print("Distribuzione post per subreddit:")
+    for sub, count in sorted(sub_counts.items(), key=lambda x: -x[1]):
+        print(f"  r/{sub}: {count} post")
+
     # 2. IA Processing
     try:
         processor = AIProcessor()
         trends = processor.process_posts(posts)
-        print(f"Gemini ha trovato {len(trends)} macro-trend validi.")
+        print(f"Claude ha trovato {len(trends)} trend distinti.")
     except Exception as e:
         print(f"ERRORE AIProcessor: {e}")
         return
@@ -51,8 +72,10 @@ def main():
             {
                 "trend_name": "Regime Forfettario 2024",
                 "frequency": "Alta",
+                "post_count": 0,
                 "main_question": "Quali sono i limiti reali di spesa per il forfettario?",
-                "content_idea": "Video Youtube: I 3 miti da sfatare sul Regime Forfettario."
+                "content_idea": "Video Youtube: I 3 miti da sfatare sul Regime Forfettario.",
+                "subreddits": ["r/commercialisti"]
             }
         ]
         out_data["last_update"] = "Dato dimostrativo (Mancano API Keys)"
