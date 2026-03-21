@@ -1,11 +1,35 @@
 {
-  "last_update": "Dato dimostrativo (Mancano API Keys)",
+  "last_update": "2026-03-21T07:39:25.808548",
   "trends": [
     {
-      "trend_name": "Regime Forfettario 2024",
+      "trend_name": "Compravendita Immobiliare: Abusi Edilizi e Problemi Post-Rogito",
       "frequency": "Alta",
-      "main_question": "Quali sono i limiti reali di spesa per il forfettario?",
-      "content_idea": "Video Youtube: I 3 miti da sfatare sul Regime Forfettario."
+      "main_question": "Come tutelarsi legalmente quando si scoprono abusi edilizi gravi (cappotti non autorizzati, difformità strutturali) dopo l'acquisto di un immobile, nonostante le garanzie di conformità del venditore?",
+      "content_idea": "Video: 'CASA COMPRATA, ABUSI SCOPERTI: La Checklist dell'Avvocato per Non Farsi Fregare' - Con esempi pratici di verifiche pre-rogito e azioni legali post-acquisto"
+    },
+    {
+      "trend_name": "Problemi di Rapporti di Vicinato e Condominio",
+      "frequency": "Media",
+      "main_question": "Quali sono i diritti e doveri tra vicini per questioni come alberi che sporcano proprietà altrui, amministratori che richiedono rateizzazioni spese condominiali, e responsabilità per danni da immobili ereditati?",
+      "content_idea": "Serie TikTok: 'VICINI IMPOSSIBILI: 5 Casi Reali e Come Risolverli Legalmente' - Episodi da 60 secondi con soluzioni pratiche"
+    },
+    {
+      "trend_name": "Giovani Professionisti: Carriera vs Work-Life Balance",
+      "frequency": "Alta",
+      "main_question": "Come gestire la transizione da apprendistato/tirocinio a contratto indeterminato, negoziare aumenti salariali e bilanciare crescita professionale con qualità della vita?",
+      "content_idea": "Webinar: 'GENERAZIONE Z AL LAVORO: Strategie per Negoziare Stipendio e Orari Senza Perdere il Posto' - Con simulazioni di colloqui"
+    },
+    {
+      "trend_name": "Freelance e P.IVA: Gestione Fiscale dei Side Project",
+      "frequency": "Media",
+      "main_question": "Come regolarizzare fiscalmente i guadagni da progetti paralleli quando si supera il regime forfettario, e quali sono le migliori strategie per ottimizzare tassazione e contributi?",
+      "content_idea": "Guida pratica: 'DA DIPENDENTE A FREELANCE: Il Percorso Fiscale Perfetto in 7 Step' - Con calcolatori online gratuiti"
+    },
+    {
+      "trend_name": "Truffe Digitali e Furto Identità",
+      "frequency": "Media",
+      "main_question": "Come proteggersi e agire legalmente contro furti di identità online, profili social falsi con dati personali, e truffe che utilizzano documenti fotografati?",
+      "content_idea": "Video-denuncia: 'MI HANNO RUBATO L'IDENTITÀ: Ecco Cosa Ho Fatto (e Tu Dovresti Fare)' - Caso studio con azioni concrete intraprese"
     }
   ]
 }
