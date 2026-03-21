@@ -1,14 +1,209 @@
 {
-  "last_update": "Dato dimostrativo (Mancano API Keys)",
+  "last_update": "2026-03-21T17:34:40.752515",
   "trends": [
     {
-      "trend_name": "Regime Forfettario 2024",
+      "trend_name": "Buste paga: errori di calcolo e trattenute anomale",
       "frequency": "Alta",
-      "post_count": 0,
-      "main_question": "Quali sono i limiti reali di spesa per il forfettario?",
-      "content_idea": "Video Youtube: I 3 miti da sfatare sul Regime Forfettario.",
+      "post_count": 8,
+      "main_question": "Come verificare la correttezza dei calcoli in busta paga e cosa fare in caso di trattenute sospette o contributi non chiari?",
+      "content_idea": "Video tutorial: 'Come leggere la busta paga - Guida pratica per individuare errori nei calcoli di stipendio, contributi e trattenute'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Dimissioni in periodo di prova dopo conferma superamento",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Se ricevo la lettera di superamento del periodo di prova posso ancora dimettermi senza preavviso o devo dare il preavviso ordinario?",
+      "content_idea": "Reel: 'Periodo di prova: cosa cambia dopo la conferma di superamento - Diritti e doveri del lavoratore'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Cambio CCNL unilaterale e assorbimento superminimo",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "L'azienda può cambiare unilateralmente il CCNL applicato e assorbire il superminimo senza il consenso del lavoratore?",
+      "content_idea": "Post LinkedIn: 'Fusioni aziendali e cambio CCNL: quando è legittimo e quando costituisce una violazione contrattuale'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Certificazione Unica (CU) 2025 e mancate consegne",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Quando devono consegnare la CU i datori di lavoro e cosa fare se non arriva entro i termini?",
+      "content_idea": "Video: 'CU 2025: scadenze, sanzioni per i datori e come sollecitare la consegna se non arriva'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Detrazione 50% ristrutturazione casa",
+      "frequency": "Alta",
+      "post_count": 6,
+      "main_question": "Quali lavori rientrano nel bonus ristrutturazione 50%, quando serve la CILA e come fare i bonifici tracciati correttamente?",
+      "content_idea": "Guida completa: 'Bonus ristrutturazione 2025: requisiti, documenti necessari e procedura per i bonifici parlanti'",
       "subreddits": [
         "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Apertura Partita IVA regime forfettario",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Conviene aprire partita IVA forfettaria? Quali sono i costi fissi e si perde il beneficio del 5% se si chiude?",
+      "content_idea": "Video: 'Partita IVA forfettaria 2025: vantaggi, svantaggi e tutto quello che devi sapere prima di aprirla'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Lavoro da remoto e residenza fiscale",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Posso lavorare da remoto per azienda estera mantenendo la residenza italiana? Come funziona la tassazione?",
+      "content_idea": "Post: 'Smart working internazionale: certificato A1, tassazione e obblighi fiscali per chi lavora dall'Italia'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Malattia: carenza e pagamenti al 66%",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "È corretto che in malattia venga pagato solo il 66% nei primi giorni di carenza secondo il CCNL Commercio?",
+      "content_idea": "Reel: 'Malattia e carenza: quanto spetta nei primi 3 giorni secondo i diversi CCNL'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Ferie obbligatorie durante preavviso dimissioni",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il datore può imporre ferie durante il periodo di preavviso per evitare di rimborsarle?",
+      "content_idea": "Video: 'Dimissioni e preavviso: quando il datore può imporre ferie e quando è illegittimo'",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Mansioni non formalizzate in contratto",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Svolgo mansioni superiori non formalizzate nel contratto, posso chiedere l'inquadramento corretto?",
+      "content_idea": "Post: 'Mansioni superiori: come dimostrare lo svolgimento e ottenere il giusto inquadramento'",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Praticantato consulente del lavoro",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Conviene ancora fare il praticantato da consulente del lavoro? È una professione con futuro?",
+      "content_idea": "Video intervista: 'Consulente del lavoro: prospettive professionali, praticantato e sbocchi lavorativi 2025'",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Vizi occulti acquisto immobile",
+      "frequency": "Alta",
+      "post_count": 5,
+      "main_question": "Ho scoperto gravi difetti nella casa dopo l'acquisto (abusi edilizi, amianto, perdite), posso chiedere i danni?",
+      "content_idea": "Guida: 'Vizi occulti immobiliare: come tutelarsi dopo l'acquisto e quando fare causa al venditore'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Stalking e maltrattamenti tra ex partner",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "La mia ex mi ha denunciato per stalking ma lei mi picchiava, come difendermi con prove incrociate?",
+      "content_idea": "Video: 'Denunce incrociate tra ex: come gestire accuse di stalking e maltrattamenti reciproci'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Recesso acquisti online e diritti consumatore",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "L'azienda rifiuta il reso entro 14 giorni di un acquisto online, posso farmi tutelare?",
+      "content_idea": "Reel: 'Acquisti online: diritto di recesso, quando è valido e come farlo valere se l'azienda rifiuta'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Cartelle esattoriali e ingiunzioni mai ricevute",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Ho ricevuto cartella di pagamento per multa mai ricevuta con firma contraffatta, cosa posso fare?",
+      "content_idea": "Video: 'Cartelle esattoriali per atti mai ricevuti: opposizione, querela di falso e sospensione'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Mobbing e discriminazioni sul lavoro",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Subisco mobbing con isolamento e punizioni, posso fare causa per danni e ottenere risarcimento?",
+      "content_idea": "Post: 'Riconoscere il mobbing: elementi probatori, danni risarcibili e come tutelarsi legalmente'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Problemi condominiali e disturbo della quiete",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "I vicini fanno rumore continuo e non rispondono ai richiami, posso agire legalmente?",
+      "content_idea": "Video: 'Rumori molesti condominiali: quando costituiscono reato e come ottenere tutela'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Eredità con debiti e rinuncia",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Ho scoperto debiti importanti nell'eredità del padre, conviene rinunciare o accettare con beneficio d'inventario?",
+      "content_idea": "Guida: 'Eredità con debiti: rinuncia vs beneficio d'inventario, come scegliere la strategia migliore'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Sinistri stradali e responsabilità",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Chi ha la colpa nel sinistro tra auto e moto/bici? Come funziona l'assicurazione?",
+      "content_idea": "Video: 'Sinistri auto-moto: determinare le responsabilità e gestire i rapporti con assicurazioni'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Contratti di affitto problematici",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Il proprietario non rispetta gli accordi di affitto, posso recedere anticipatamente o chiedere danni?",
+      "content_idea": "Post: 'Diritti dell'inquilino: quando il proprietario viola il contratto e come tutelarsi'",
+      "subreddits": [
+        "r/Avvocati"
       ]
     }
   ]
