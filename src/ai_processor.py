@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from google import genai
 from dotenv import load_dotenv
 
@@ -48,23 +49,45 @@ Restituisci l'output ESCLUSIVAMENTE in formato JSON valido come Array di oggetti
 Ecco i post da analizzare:
 """ + text_to_analyze
 
-        print("Invio dati a Gemini...")
-        try:
-            response = self.client.models.generate_content(
-                model="gemini-2.0-flash",
-                contents=prompt
-            )
-            text = response.text
-            if "```json" in text:
-                text = text.split("```json")[1].split("```")[0]
-            elif "```" in text:
-                text = text.split("```")[1].split("```")[0]
+        models_to_try = ["gemini-2.0-flash-lite", "gemini-2.0-flash", "gemini-1.5-flash"]
 
-            return json.loads(text.strip())
-        except Exception as e:
-            print("Errore durante l'elaborazione IA: " + str(e))
-            try:
-                print("Risposta grezza IA: " + str(response.text))
-            except:
-                pass
-            return []
+        for model_name in models_to_try:
+            for attempt in range(3):
+                print("Invio dati a Gemini (modello: " + model_name + ", tentativo " + str(attempt + 1) + ")...")
+                try:
+                    response = self.client.models.generate_content(
+                        model=model_name,
+                        contents=prompt
+                    )
+                    text = response.text
+                    if "```json" in text:
+                        text = text.split("```json")[1].split("```")[0]
+                    elif "```" in text:
+                        text = text.split("```")[1].split("```")[0]
+
+                    result = json.loads(text.strip())
+                    print("Successo con modello " + model_name + "!")
+                    return result
+                except Exception as e:
+                    error_str = str(e)
+                    print("Errore: " + error_str)
+                    if "429" in error_str or "RESOURCE_EXHAUSTED" in error_str:
+                        if attempt < 2:
+                            print("Aspetto 35 secondi e riprovo...")
+                            time.sleep(35)
+                            continue
+                        else:
+                            print("Quota esaurita per " + model_name + ", provo il prossimo modello...")
+                            break
+                    elif "404" in error_str or "not found" in error_str:
+                        print("Modello " + model_name + " non disponibile, provo il prossimo...")
+                        break
+                    else:
+                        print("Errore imprevisto, riprovo...")
+                        if attempt < 2:
+                            time.sleep(10)
+                            continue
+                        break
+
+        print("Tutti i modelli hanno fallito.")
+        return []
