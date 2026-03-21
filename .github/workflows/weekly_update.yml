@@ -2,7 +2,7 @@ name: Weekly Trend Analysis
 
 on:
   schedule:
-    - cron: "0 16 * * 4"
+    - cron: "0 11 * * 4"
   workflow_dispatch:
 
 jobs:
@@ -27,7 +27,7 @@ jobs:
 
       - name: Esecuzione del Motore AI
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python src/main.py
 
@@ -36,5 +36,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/trends.json
-          git commit -m "Aggiornamento automatico dei Trend" || echo "Nessuna variazione"
+          git commit -m "Aggiornamento automatico dei Trend Settimanali [skip ci]" || echo "Nessuna variazione dei dati"
           git push
