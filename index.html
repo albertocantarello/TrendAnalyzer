@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="it" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Trend Analyzer per Professionisti</title>
+    
+    <!-- Tailwind CSS (via CDN per zero configurazioni) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        darkBg: '#0b1120',
+                        cardBg: '#1e293b',
+                        accent: '#3b82f6',     /* Blue */
+                        accentHover: '#60a5fa'
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- Google Fonts & FontAwesome -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS per gli effetti Wow -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-darkBg text-slate-200 font-sans antialiased min-h-screen flex flex-col bg-pattern">
+    
+    <!-- Header -->
+    <header class="sticky top-0 z-50 glass-header border-b border-slate-700/50 p-4 shadow-lg">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-accent to-purple-500 flex items-center justify-center shadow-lg shadow-accent/20">
+                    <i class="fa-solid fa-chart-line text-white text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl font-bold text-white tracking-tight">R-Trend<span class="text-accent">Analyzer</span></h1>
+                    <p class="text-xs text-slate-400 font-medium tracking-wide">PER PROFESSIONISTI E CREATOR</p>
+                </div>
+            </div>
+            <div class="flex items-center bg-slate-800/50 backdrop-blur-md px-4 py-2 rounded-full border border-slate-700">
+                <i class="fa-regular fa-clock text-accent mr-2"></i>
+                <span id="update-time" class="text-sm font-medium text-slate-300">Caricamento in corso...</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow w-full max-w-7xl mx-auto p-4 md:p-8">
+        
+        <div class="mb-8 md:mb-12 text-center max-w-2xl mx-auto">
+            <h2 class="text-3xl md:text-5xl font-bold mb-4 text-white leading-tight">
+                Le domande che i <span class="text-transparent bg-clip-text bg-gradient-to-r from-accent to-purple-400">tuoi clienti</span> stanno cercando online.
+            </h2>
+            <p class="text-slate-400 text-lg">
+                La tua scaletta editoriale settimanale, catturata dai trend italiani di Reddit e distillata dall'Intelligenza Artificiale.
+            </p>
+        </div>
+
+        <!-- Grid Results -->
+        <div id="loading" class="flex justify-center items-center py-20">
+            <div class="loading-spinner"></div>
+        </div>
+        
+        <div id="trends-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 hidden">
+            <!-- I dati JSON verranno iniettati qui da JavaScript -->
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-slate-800/50 mt-12 py-8 text-center text-slate-500 text-sm">
+        <p>Generato automaticamente tramite GitHub Actions e Google Gemini Flash.</p>
+    </footer>
+
+    <!-- App Logic -->
+    <script src="js/app.js"></script>
+</body>
+</html>
