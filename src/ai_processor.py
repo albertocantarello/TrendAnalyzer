@@ -22,37 +22,43 @@ class AIProcessor:
             text_to_analyze += "ID: " + str(p['id']) + " | Subreddit: r/" + p['subreddit'] + " | Titolo: " + p['title'] + "\nTesto: " + text[:800] + "\n---\n"
 
         prompt = """Sei un assistente esperto in analisi dei trend per professionisti italiani (Commercialisti, Avvocati, Consulenti del lavoro).
-Di seguito trovi una lista di post estratti da Reddit questa settimana.
+Di seguito trovi """ + str(len(posts)) + """ post estratti da Reddit questa settimana.
 
-Il tuo compito e':
-1. Filtrare il rumore: ignora post inutili senza una vera domanda tecnica/professionale.
-2. Estrarre la problematica "core" da ogni post.
-3. Raggruppare i problemi simili in MACRO-TREND.
+REGOLE FONDAMENTALI:
+1. NON raggruppare troppo! Se due argomenti sono anche solo leggermente diversi, tienili separati.
+   - Esempio: "Dimissioni per giusta causa" e "Licenziamento illegittimo" sono DUE trend distinti, NON uno solo.
+2. Filtra SOLO lo spam puro (meme, post senza contenuto). Se un post ha una domanda reale, anche banale, INCLUDILO.
+3. Identifica ALMENO 15 trend distinti. Se i post coprono piu' di 20 argomenti diversi, riportali TUTTI.
+4. Se un argomento appare in un solo post ma e' una domanda professionale valida, includilo con frequenza "Bassa".
 
-Per ogni Macro-Trend identificato, fornisci:
-- "trend_name": Il titolo del trend (breve e d'impatto).
-- "frequency": "Alta", "Media" o "Bassa" in base al volume.
-- "main_question": La vera domanda professionale estratta dai post confusi.
-- "content_idea": Un'idea geniale per un video o un post su questo tema.
+Per ogni trend identificato, fornisci:
+- "trend_name": Titolo del trend (breve e d'impatto).
+- "frequency": "Alta" (5+ post), "Media" (2-4 post), "Bassa" (1 post).
+- "post_count": Numero esatto di post che trattano questo tema.
+- "main_question": La vera domanda professionale estratta dai post.
+- "content_idea": Un'idea per un contenuto (video, post, reel) su questo tema.
+- "subreddits": Lista dei subreddit da cui provengono i post su questo tema.
 
 Restituisci l'output ESCLUSIVAMENTE in formato JSON valido come Array di oggetti, e nessun altro testo:
 [
   {
     "trend_name": "...",
     "frequency": "...",
+    "post_count": 0,
     "main_question": "...",
-    "content_idea": "..."
+    "content_idea": "...",
+    "subreddits": ["r/..."]
   }
 ]
 
-Ecco i post da analizzare:
+Ecco i """ + str(len(posts)) + """ post da analizzare:
 """ + text_to_analyze
 
-        print("Invio dati a Claude Sonnet...")
+        print(f"Invio {len(posts)} post a Claude Sonnet per analisi...")
         try:
             response = self.client.messages.create(
                 model="claude-sonnet-4-20250514",
-                max_tokens=4096,
+                max_tokens=8192,
                 messages=[
                     {"role": "user", "content": prompt}
                 ]
