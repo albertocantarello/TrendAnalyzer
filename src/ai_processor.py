@@ -69,7 +69,15 @@ Ecco i """ + str(len(posts)) + """ post da analizzare:
             elif "```" in text:
                 text = text.split("```")[1].split("```")[0]
 
-            return json.loads(text.strip())
+            try:
+                return json.loads(text.strip(), strict=False)
+            except Exception as je:
+                print("Errore decodifica JSON (" + str(je) + ").")
+                os.makedirs("data", exist_ok=True)
+                with open("data/claude_error_output.txt", "w", encoding="utf-8") as f:
+                    f.write(text)
+                print("Salvato l'output grezzo in data/claude_error_output.txt per debug.")
+                return []
         except Exception as e:
-            print("Errore durante l'elaborazione IA: " + str(e))
+            print("Errore API o elaborazione IA: " + str(e))
             return []
