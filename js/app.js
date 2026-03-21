@@ -56,6 +56,14 @@ function renderTrends(trends, container) {
         return;
     }
 
+    // Ordina per "tema caldo": prima per post_count (decrescente), poi per frequenza
+    var freqOrder = { 'alta': 3, 'media': 2, 'bassa': 1 };
+    trends.sort(function(a, b) {
+        var countDiff = (b.post_count || 0) - (a.post_count || 0);
+        if (countDiff !== 0) return countDiff;
+        return (freqOrder[b.frequency.toLowerCase()] || 0) - (freqOrder[a.frequency.toLowerCase()] || 0);
+    });
+
     trends.forEach(function(trend, index) {
         var freqColor = "bg-slate-700/50 text-slate-300 border-slate-600";
         var icon = "fa-fire";
