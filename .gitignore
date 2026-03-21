@@ -1,7 +1,5 @@
 .env
 __pycache__/
-*.json
-!data/
 .venv/
 venv/
 env/
