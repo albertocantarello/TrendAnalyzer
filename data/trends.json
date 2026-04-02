@@ -1,44 +1,44 @@
 {
-  "last_update": "2026-03-26T11:42:36.553472",
+  "last_update": "2026-04-02T11:39:08.350505",
   "trends": [
     {
-      "trend_name": "Rimborsi trasferte e indennità non pagate",
+      "trend_name": "Destinazione TFR",
       "frequency": "Media",
-      "post_count": 2,
-      "main_question": "È legale non pagare rimborsi adeguati per trasferte estero e disagio? Quali sono i diritti del lavoratore in trasferta?",
-      "content_idea": "Video sui diritti dei lavoratori in trasferta: rimborsi dovuti, indennità di disagio e cosa fare se il CCNL non viene rispettato",
+      "post_count": 3,
+      "main_question": "Qual è la scelta migliore per destinare il TFR e cosa fare quando il datore di lavoro non paga il TFR dovuto?",
+      "content_idea": "Video tutorial: 'TFR - Guida completa alla destinazione e cosa fare se non viene pagato' con confronto opzioni INPS vs fondo pensione",
       "subreddits": [
         "r/consulentidellavoro",
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Calcolo netto da RAL e imponibile previdenziale",
+      "trend_name": "Calcolo NASpI e settimane contributive",
       "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come calcolare il netto mensile dalla RAL? Qual è la differenza tra RAL e imponibile previdenziale?",
-      "content_idea": "Calculator interattivo per il calcolo del netto da RAL con esempi pratici per diversi CCNL",
+      "post_count": 4,
+      "main_question": "Come si calcola l'importo della NASpI: si considerano tutte le settimane contributive o solo quelle utili sopra i 240 euro?",
+      "content_idea": "Infografica dettagliata: 'Calcolo NASpI step by step - Differenza tra settimane contributive e utili'",
       "subreddits": [
         "r/consulentidellavoro",
         "r/commercialisti"
       ]
     },
     {
-      "trend_name": "Gestione TFR e fondi pensione",
+      "trend_name": "Dimissioni volontarie con preavviso",
       "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come scegliere tra TFR in azienda o fondo pensione? Cosa succede con indennità sostitutive non versate?",
-      "content_idea": "Confronto dettagliato tra le opzioni TFR: vantaggi e svantaggi di ogni scelta con simulazioni",
+      "post_count": 3,
+      "main_question": "Come calcolare i tempi di preavviso per le dimissioni e quando questo decorre dal 1° o dal 16 del mese?",
+      "content_idea": "Reel pratico: 'Dimissioni - Come calcolare correttamente i tempi di preavviso secondo il CCNL'",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Problemi con pagamenti stipendi e TFR",
-      "frequency": "Alta",
-      "post_count": 5,
-      "main_question": "Come agire contro datori che non pagano stipendi, TFR o fanno lavorare in nero? Quanto è diffuso il problema?",
-      "content_idea": "Guida pratica su come denunciare stipendi non pagati: Ispettorato del Lavoro, sindacati e tutele legali",
+      "trend_name": "Congedo parentale durante periodo di prova",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "È possibile essere licenziati durante il periodo di prova se si prende il congedo parentale per la nascita di un figlio?",
+      "content_idea": "Post informativo: 'Congedo parentale e periodo di prova - I tuoi diritti come neo-papà'",
       "subreddits": [
         "r/consulentidellavoro",
         "r/Avvocati",
@@ -46,225 +46,225 @@
       ]
     },
     {
-      "trend_name": "Dimissioni durante periodo di prova",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Si può dare dimissioni senza preavviso dopo aver ricevuto conferma superamento periodo di prova?",
-      "content_idea": "Chiarimenti sui diritti durante il periodo di prova: quando scatta il preavviso e le eccezioni",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Contratti intermittenti e NASpI",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Come ottenere NASpI quando l'azienda non chiude il contratto intermittente ma smette di chiamare?",
-      "content_idea": "Guida sui diritti nei contratti a chiamata: quando si ha diritto alla NASpI senza dimissioni volontarie",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Patti di non concorrenza non remunerati",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Il patto di non concorrenza deve essere sempre remunerato? Che valore ha se fatto da cooperative?",
-      "content_idea": "Analisi della validità dei patti di non concorrenza: quando sono nulli e come tutelarsi",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Ferie negate e gestione dei riposi",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "È legale negare ferie richieste con anticipo? Quali sono gli obblighi su ferie consecutive?",
-      "content_idea": "Diritti sulle ferie: quando il datore può rifiutare, obbligo delle 2 settimane consecutive e ricorsi",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Praticantato presso consulenti del lavoro",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come trovare un buon praticantato da consulente del lavoro? Quali red flag evitare negli studi?",
-      "content_idea": "Guida al praticantato da consulente del lavoro: cosa chiedere al colloquio, diritti del praticante, red flag",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/commercialisti",
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Segnalazioni aziende per irregolarità",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Come segnalare irregolarità su AI, privacy e smart working? Si può fare in forma anonima?",
-      "content_idea": "Whistleblowing aziendale: canali di segnalazione, protezione per i segnalanti, efficacia delle procedure",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Mobbing e trattamenti discriminatori",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come riconoscere e denunciare il mobbing sul lavoro? Cosa fare se si viene isolati o trasferiti punitivamente?",
-      "content_idea": "Riconoscere il mobbing: elementi costitutivi, raccolta prove, tutele legali e risarcimenti",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Lavoro non retribuito e false promesse",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Come recuperare compensi per lavoro 'in prova' non pagato? Che valore hanno accordi verbali?",
-      "content_idea": "Tutelarsi dal lavoro gratuito mascherato: come documentare gli accordi e recuperare i compensi",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Pignoramento stipendi e beni",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come funziona il pignoramento dello stipendio? A chi notificare per dipendenti di grandi aziende?",
-      "content_idea": "Guida al pignoramento: procedura, soggetti coinvolti, quote pignorabile dello stipendio",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Problemi condominiali e rumori",
-      "frequency": "Alta",
-      "post_count": 6,
-      "main_question": "Come agire contro vicini rumorosi, antifurti che suonano di notte, amministratori inadempenti?",
-      "content_idea": "Conflitti condominiali: strumenti legali contro i rumori, responsabilità amministratore, tutele immediate",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Truffe immobiliari e agenzie",
+      "trend_name": "CCNL Commercio stipendi e livelli",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come riconoscere truffe immobiliari? Cosa fare se l'agenzia sbaglia regime fiscale o sparisce?",
-      "content_idea": "Red flag nelle transazioni immobiliari: come evitare truffe di agenzie e venditori disonesti",
+      "main_question": "Quali sono gli stipendi netti reali per i diversi livelli del CCNL Commercio e come si calcola la busta paga?",
+      "content_idea": "Calcolatore interattivo: 'CCNL Commercio - Calcola il tuo stipendio netto per livello e inquadramento'",
       "subreddits": [
-        "r/Avvocati"
+        "r/consulentidellavoro",
+        "r/commercialisti"
       ]
     },
     {
-      "trend_name": "Multe e sanzioni stradali",
+      "trend_name": "Buoni pasto e quota non deducibile",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come funziona la tassazione della quota non deducibile dei buoni pasto sopra i 4 euro per quelli cartacei?",
+      "content_idea": "Video esplicativo: 'Buoni pasto - Tutto quello che devi sapere su deducibilità e tassazione'",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Straordinari e banca ore scadenza",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "È legittimo che le ore straordinarie in banca ore scadano a fine anno senza essere pagate secondo il CCNL metalmeccanico?",
+      "content_idea": "Post di approfondimento: 'Banca ore straordinari - Quando scadono e cosa dice la legge'",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Cambio lavoro tra CCNL diversi",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Conviene cambiare da CCNL Commercio a CCNL Metalmeccanico anche con RAL inferiore?",
+      "content_idea": "Confronto dettagliato: 'CCNL Commercio vs Metalmeccanico - Pro e contro per la tua carriera'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Condizioni di lavoro estreme",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Cosa fare quando si lavora 7 giorni su 7 senza riposo o in condizioni di estremo stress lavorativo?",
+      "content_idea": "Guida pratica: 'Condizioni di lavoro illegali - Come riconoscerle e cosa fare'",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Sospensione SIISL per sgravi",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Cosa significa la sospensione dell'obbligo SIISL per gli sgravi contributivi e come comportarsi?",
+      "content_idea": "Update normativo: 'SIISL e sgravi contributivi - Ultime novità e cosa cambia per le aziende'",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Sanzioni ritardo CU",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Quali sono le sanzioni per l'invio tardivo della CU e conviene fare il ravvedimento operoso?",
+      "content_idea": "Promemoria professionale: 'CU in ritardo - Sanzioni, ravvedimento e scadenze da ricordare'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Eredità e successioni complesse",
       "frequency": "Media",
       "post_count": 4,
-      "main_question": "Come contestare multe per parcheggio pagato, fermo amministrativo, doppia multa stessa sosta?",
-      "content_idea": "Difendersi dalle multe ingiuste: raccolta prove, ricorsi, casi di annullamento per vizi procedurali",
+      "main_question": "Come gestire eredità con più eredi, donazioni pregresse e possibili contestazioni future?",
+      "content_idea": "Webinar: 'Pianificazione successoria - Come evitare conflitti tra eredi'",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Stalking e molestie",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Come tutelarsi da ex che minaccia di rovinare carriera? Conviene informare preventivamente l'università?",
-      "content_idea": "Tutele contro stalking: denuncia 612-bis, misure preventive, protezione ambito lavorativo/accademico",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Eredità e rinunce",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come scoprire debiti ereditari? Conviene rinuncia all'eredità o beneficio di inventario?",
-      "content_idea": "Eredità con debiti: come verificare la situazione patrimoniale del defunto e scegliere la strategia",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Separazioni e divorzi",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Ex moglie può richiedere documenti per ISEE dopo accordo di separazione depositato?",
-      "content_idea": "Diritti e doveri dopo separazione: accesso documenti, calcolo assegni, modifiche accordi",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Incidenti e risarcimenti",
+      "trend_name": "Infiltrazioni e danni condominiali",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come comportarsi in caso di incidente con testimoni falsi? Che responsabilità ha il broker che non assicura?",
-      "content_idea": "Gestione sinistri: raccolta prove, testimoni, responsabilità intermediari assicurativi",
+      "main_question": "Chi paga i danni da infiltrazioni d'acqua e come tutelare i propri diritti nei lavori condominiali?",
+      "content_idea": "Guida legale: 'Infiltrazioni e danni condominiali - Diritti e responsabilità'",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Diritti dei minori e contenuti sessuali",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Minorenni che si scambiano foto sessual possono essere perseguiti penalmente?",
-      "content_idea": "Sexting tra minorenni: rischi legali, educazione digitale, quando scatta la responsabilità penale",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Forfettario e regime fiscale",
-      "frequency": "Alta",
-      "post_count": 7,
-      "main_question": "Quando conviene passare da forfettario a regimi ordinari? Come gestire spese non fatturate?",
-      "content_idea": "Ottimizzazione regime forfettario: calcoli comparativi, gestione spese, passaggio a SAS",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Fatturazione elettronica e corrispettivi",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Obbligo trasmissione corrispettivi per forfettari? Come collegare POS e registratore di cassa?",
-      "content_idea": "Adempimenti fatturazione elettronica: obblighi per regime forfettario, sanzioni, ravvedimenti",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Detrazioni ristrutturazione casa",
+      "trend_name": "Contratti affitto e subentro",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come funzionano i bonifici per detrazioni ristrutturazione? Cosa indicare in causale?",
-      "content_idea": "Guida pratica alle detrazioni ristrutturazione: bonifici parlanti, documentazione, massimali",
+      "main_question": "Come gestire il subentro negli affitti e quali sono i diritti degli inquilini in caso di disdetta anticipata?",
+      "content_idea": "Tutorial pratico: 'Affitti - Subentro, disdetta e risoluzione dei problemi più comuni'",
       "subreddits": [
-        "r/commercialisti"
+        "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Gestione societaria familiare",
+      "trend_name": "Truffu e recupero crediti",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Come tutelarsi dalle truffe online e cosa fare per il recupero crediti con prescrizione?",
+      "content_idea": "Video informativo: 'Truffe online e recupero crediti - Come difendersi e quando agire'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Sinistri stradali e responsabilità",
       "frequency": "Media",
       "post_count": 2,
-      "main_question": "Conviene costituire società tra familiari per gestire immobili? Come ottimizzare fiscalmente?",
-      "content_idea": "Società di famiglia: vantaggi fiscali, gestione immobili, confronto con possesso diretto",
+      "main_question": "Come comportarsi in caso di sinistro stradale e come determinare le responsabilità?",
+      "content_idea": "Infografica: 'Sinistro stradale - Cosa fare nei primi minuti e come tutelare i propri diritti'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Multe e ricorsi",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Quando e come fare ricorso contro le multe per errori formali o vizi procedurali?",
+      "content_idea": "Checklist: 'Multa ricevuta - Guida step by step per valutare se fare ricorso'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Mantenimento e revisione accordi",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Quando può essere revocato il mantenimento per i figli maggiorenni e come modificare gli accordi di separazione?",
+      "content_idea": "Approfondimento legale: 'Mantenimento figli maggiorenni - Quando cambia e come modificare gli accordi'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Regime forfettario accesso e limiti",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Quali sono i requisiti per accedere al regime forfettario e come si calcolano i limiti di reddito dipendente?",
+      "content_idea": "Calcolatore online: 'Regime forfettario - Verifica se puoi accedere con il nostro simulatore'",
       "subreddits": [
         "r/commercialisti"
       ]
     },
     {
-      "trend_name": "Problemi con fornitori esteri",
+      "trend_name": "Regime impatriati",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Come funziona il regime impatriati e è possibile recuperare il beneficio per anni passati non utilizzati?",
+      "content_idea": "Guida completa: 'Regime impatriati - Requisiti, benefici e come ottenerli'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Passaggio da dipendente a P.IVA",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Quando conviene passare da lavoro dipendente a partita IVA e come fare i calcoli economici?",
+      "content_idea": "Simulatore: 'Da dipendente a P.IVA - Calcola se ti conviene con tutti i costi'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Detrazioni fiscali 730",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Come funzionano le detrazioni fiscali nel 730 e cosa fare se si è incapienti IRPEF?",
+      "content_idea": "Video tutorial: '730 e detrazioni - Come massimizzare i rimborsi e gestire l'incapienza'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Buste paga errori e controllo",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Come controllare se la propria busta paga è corretta e cosa fare in caso di errori?",
+      "content_idea": "Checklist pratica: 'Controlla la tua busta paga - Gli errori più comuni da individuare'",
+      "subreddits": [
+        "r/commercialisti",
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Apprendistato pro e contro",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Come gestire fatturazione da fornitori cinesi con merce già in UE? Problemi deducibilità?",
-      "content_idea": "Import da paesi extra-UE: gestione IVA, deducibilità costi, documentazione necessaria",
+      "main_question": "Conviene l'apprendistato rispetto a un contratto indeterminato normale considerando anche l'impatto pensionistico?",
+      "content_idea": "Confronto dettagliato: 'Apprendistato vs Indeterminato - Pro e contro per la tua carriera'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Guadagni online senza P.IVA",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come dichiarare guadagni online da donazioni e attività sui social senza partita IVA?",
+      "content_idea": "Guida fiscale: 'Creator e influencer - Come dichiarare i guadagni online nel modo giusto'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "ISEE e uscita nucleo familiare",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come funziona l'ISEE per l'uscita dal nucleo familiare con borse di ricerca e redditi assimilati?",
+      "content_idea": "Tutorial ISEE: 'Studenti e ricercatori - Come uscire dal nucleo familiare per l'ISEE'",
       "subreddits": [
         "r/commercialisti"
       ]
