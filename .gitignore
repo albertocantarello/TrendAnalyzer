@@ -1,5 +1,9 @@
 .env
 __pycache__/
+*.json
+!data/
+data/*.pdf
+*.pdf
 .venv/
 venv/
 env/
