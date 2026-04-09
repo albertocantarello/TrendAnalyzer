@@ -1,210 +1,208 @@
 {
-  "last_update": "2026-04-09T14:12:45.454220",
+  "last_update": "2026-04-09T14:20:02.694770",
   "trends": [
     {
-      "trend_name": "Dimissioni protette per maternità: procedure e modalità",
+      "trend_name": "Fringe benefit auto aziendali e calcolo tassazione",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Quali sono le procedure corrette per dimettersi entro l'anno di vita del bambino e come gestire la documentazione (PEC, firma digitale)?",
-      "content_idea": "Video guida step-by-step: 'Dimissioni in maternità: dalla PEC all'ispettorato, tutto quello che devi sapere'",
+      "main_question": "Come si calcola correttamente la tassazione sui fringe benefit per auto aziendali ad uso promiscuo e quali sono le nuove regole 2026?",
+      "content_idea": "Video tutorial: 'Auto aziendale 2026: come calcolare il fringe benefit e ottimizzare la tassazione'",
       "subreddits": [
         "r/consulentidellavoro",
-        "r/commercialisti",
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Dimissioni per giusta causa e mancato pagamento stipendi",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Quando si può procedere con dimissioni per giusta causa in caso di stipendi non pagati e come tutelarsi legalmente?",
+      "content_idea": "Post LinkedIn: 'Stipendi non pagati: la guida completa alle dimissioni per giusta causa'",
+      "subreddits": [
+        "r/consulentidellavoro",
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Dimissioni per giusta causa e recupero crediti",
+      "trend_name": "Dimissioni in periodo protetto maternità",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come procedere con dimissioni per giusta causa quando il datore non paga stipendi da mesi e come recuperare i crediti senza spendere troppo in spese legali?",
-      "content_idea": "Reel: '4 mesi senza stipendio? Ecco i tuoi diritti e come farli valere senza rimetterci'",
+      "main_question": "Come procedere correttamente con le dimissioni nel primo anno di vita del bambino e quale documentazione serve?",
+      "content_idea": "Checklist: 'Dimissioni protette maternità: procedura passo-passo e documenti necessari'",
       "subreddits": [
         "r/consulentidellavoro",
-        "r/Avvocati"
+        "r/Avvocati",
+        "r/commercialisti"
       ]
     },
     {
-      "trend_name": "NASPI dopo dimissioni volontarie: strategia 13 settimane",
+      "trend_name": "NASPI dopo dimissioni volontarie e strategie",
       "frequency": "Media",
-      "post_count": 4,
-      "main_question": "È possibile ottenere la NASPI dimettendosi volontariamente e poi lavorando esattamente 13 settimane per essere licenziati?",
-      "content_idea": "Post educativo: 'NASPI e dimissioni: tutto quello che devi sapere sui requisiti reali (spoiler: non è così semplice)'",
+      "post_count": 3,
+      "main_question": "È possibile ottenere la NASPI dopo dimissioni volontarie lavorando per il periodo minimo di 13 settimane?",
+      "content_idea": "Reel: 'NASPI dopo dimissioni: il trucco delle 13 settimane funziona davvero?'",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Fringe benefit auto aziendale: calcoli e tassazione",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come si calcola correttamente il fringe benefit per auto aziendale e quali sono le novità fiscali 2026?",
-      "content_idea": "Video tutorial: 'Auto aziendale 2026: nuove regole di tassazione e come calcolare il fringe benefit'",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Cambio mansione e inquadramento contrattuale",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Quando l'azienda può modificare le mansioni del dipendente e come ottenere il giusto inquadramento contrattuale?",
-      "content_idea": "Post informativo: 'Ti hanno cambiato mansione? Ecco quando puoi dire NO e ottenere il giusto livello'",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Detrazioni fiscali e RAL: quando rinunciarci",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Con una RAL di 37k conviene rinunciare alle detrazioni per evitare di restituire soldi a fine anno?",
-      "content_idea": "Reel calcolatore: 'RAL 37k: detrazioni sì o no? Te lo spiego in 60 secondi'",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Mobbing sul lavoro: come riconoscerlo e provarlo",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come si può dimostrare il mobbing quando non ci sono prove concrete ma solo comportamenti ambigui?",
-      "content_idea": "Video: 'Mobbing: non solo insulti - riconosci i segnali nascosti e impara a documentarli'",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Contratti di locazione e recesso anticipato",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "È possibile recedere da un contratto di affitto nonostante clausole che vietano il recesso anticipato?",
-      "content_idea": "Post: 'Clausole vessatorie negli affitti: quando puoi ignorarle e andartene comunque'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Problemi con acquisti online e garanzia",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come tutelare i propri diritti quando si acquista online e il prodotto è difettoso o il venditore non rispetta la garanzia?",
-      "content_idea": "Guida pratica: 'Amazon, Mediaworld, negozi online: i tuoi diritti quando le cose vanno male'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Dichiarazione crypto e investimenti esteri",
+      "trend_name": "Problemi con contratti di locazione e recesso",
       "frequency": "Media",
       "post_count": 4,
-      "main_question": "Come gestire la dichiarazione di crypto, investimenti su broker esteri e minusvalenze nel quadro RW/RT?",
-      "content_idea": "Video completo: 'Crypto e investimenti esteri: guida alla dichiarazione 2026 (con esempi pratici)'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Regime forfettario: dubbi su attività e codici ATECO",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Quale codice ATECO scegliere per attività digitali, influencer marketing e vendita app in regime forfettario?",
-      "content_idea": "Reel: 'Forfettario 2026: scegli il codice ATECO giusto per la tua attività digitale'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Incidenti stradali e CID: tutele e responsabilità",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come comportarsi dopo un incidente stradale, come compilare correttamente il CID e quando fare denuncia?",
-      "content_idea": "Video: 'Incidente stradale: CID, denuncia, risarcimenti - la guida completa per non sbagliare'",
+      "main_question": "Quali sono i diritti e doveri in caso di recesso anticipato da contratto di locazione e quando le clausole sono valide?",
+      "content_idea": "Video esplicativo: 'Affitto: come recedere dal contratto senza perdere la caparra'",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Congedo parentale e contributi figurativi",
+      "trend_name": "Dichiarazione crypto e minusvalenze trading",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Come dichiarare correttamente le perdite da crypto e trading su broker esteri nel quadro RW/RT?",
+      "content_idea": "Guida pratica: 'Crypto e trading estero: dichiarare le perdite per compensare i futuri guadagni'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Mobbing e molestie sul lavoro",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Come dimostrare e documentare situazioni di mobbing quando non ci sono prove concrete?",
+      "content_idea": "Post informativo: 'Mobbing sul lavoro: come raccogliere le prove e tutelarsi legalmente'",
+      "subreddits": [
+        "r/consulentidellavoro",
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Controversie condominiali e diritti proprietari",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Come risolvere conflitti condominiali per uso spazi comuni, parcheggi e installazioni?",
+      "content_idea": "Video consulenza: 'Condominio: conosci i tuoi diritti su parcheggi e spazi comuni'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Multe e sanzioni stradali contestabili",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Quando e come contestare multe per errori procedurali o vizi nell'accertamento?",
+      "content_idea": "Tutorial: 'Multa sbagliata? Ecco quando puoi vincere il ricorso al Giudice di Pace'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Regime forfettario e collaborazioni con ex datori",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Come verificare che i contributi figurativi per congedo parentale siano stati correttamente accreditati?",
-      "content_idea": "Post: 'Congedo parentale: verifica che i tuoi contributi figurativi siano stati accreditati correttamente'",
+      "main_question": "Quando un forfettario può fatturare a un ex datore di lavoro senza violare i limiti temporali?",
+      "content_idea": "Post LinkedIn: 'Forfettari e ex datori di lavoro: le regole da rispettare per evitare problemi'",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Garanzie prodotti e difetti post-vendita",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Come far valere la garanzia legale quando il venditore nega il difetto o offre solo la propria garanzia limitata?",
+      "content_idea": "Reel: 'Prodotto difettoso? La garanzia legale è sempre di 2 anni, non farti fregare!'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Separazioni e affido figli non coniugati",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Come regolare affido e mantenimento per coppie non sposate con figli in caso di separazione?",
+      "content_idea": "Guida: 'Separazione senza matrimonio: diritti e doveri per l'affido dei figli'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Lavoro nero e part-time irregolari",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Quali sono i rischi del lavoro in nero mascherato da part-time e come tutelarsi?",
+      "content_idea": "Video denuncia: 'Part-time ma lavori full-time? Ecco come far valere i tuoi diritti'",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Lavoro fuori orario per dirigenti PA",
+      "trend_name": "Successioni e beneficio d'inventario",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Come si gestiscono le ore lavorate nei giorni festivi per i dirigenti della PA senza orario fisso?",
-      "content_idea": "Post: 'Dirigenti PA: diritti e doveri quando ti chiamano la domenica e nei giorni festivi'",
+      "main_question": "Quando conviene accettare un'eredità con beneficio d'inventario per proteggersi dai debiti?",
+      "content_idea": "Post educativo: 'Eredità con debiti? Il beneficio d'inventario ti protegge dal fallimento'",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Sanzioni amministrative e small claims",
+      "trend_name": "Acquisti online e truffe e-commerce",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "Come ottenere rimborsi e risarcimenti per prodotti non conformi o servizi non erogati negli acquisti online?",
+      "content_idea": "Tutorial: 'Truffato online? La guida completa per ottenere il rimborso'",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Cambio mansioni e demansionamento",
       "frequency": "Media",
       "post_count": 2,
-      "main_question": "Come gestire sanzioni amministrative di piccolo importo e controversie per somme ridotte?",
-      "content_idea": "Reel: 'Multa di 10 euro? Ecco quando conviene contestare e quando no'",
+      "main_question": "Quando un dipendente può rifiutare un cambio di mansione e quali sono le conseguenze legali?",
+      "content_idea": "Video consulenza: 'Ti hanno cambiato lavoro? Quando puoi dire no al demansionamento'",
       "subreddits": [
+        "r/consulentidellavoro",
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Problemi condominiali e diritti dei proprietari",
+      "trend_name": "ISEE e patrimoni all'estero",
       "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come gestire problemi con amministratori, spese condominiali e diritti/doveri in condominio?",
-      "content_idea": "Video: 'Condominio: dalla gestione posti auto alle spese straordinarie, tutti i tuoi diritti'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "ISEE e patrimoni: calcoli e dichiarazioni",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come calcolare correttamente ISEE e ISEEu considerando patrimoni, redditi esteri e variazioni patrimoniali?",
-      "content_idea": "Guida: 'ISEE 2026: dalla dichiarazione dei redditi ai patrimoni esteri, tutto quello che devi sapere'",
+      "post_count": 2,
+      "main_question": "Come dichiarare correttamente conti esteri e redditi stranieri per il calcolo ISEE?",
+      "content_idea": "Checklist: 'ISEE con patrimoni esteri: documenti e procedure per non sbagliare'",
       "subreddits": [
         "r/commercialisti"
       ]
     },
     {
-      "trend_name": "Donazioni e successioni: aspetti fiscali",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come gestire donazioni da genitori a figli e successioni dal punto di vista fiscale e legale?",
-      "content_idea": "Video: 'Donazioni in famiglia: quando, come e quanto costa trasferire denaro ai figli'",
+      "trend_name": "Incidenti stradali e CID contestati",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come comportarsi quando l'altra parte contesta la dinamica dell'incidente già concordata nel CID?",
+      "content_idea": "Post informativo: 'CID firmato ma l'altro cambia versione? Ecco come difenderti'",
       "subreddits": [
-        "r/commercialisti",
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Fatturazione per ex datori di lavoro",
+      "trend_name": "Doppia tassazione redditi esteri",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Ci sono limitazioni temporali per fatturare come partita IVA a un ex datore di lavoro?",
-      "content_idea": "Post: 'Da dipendente a partita IVA: quando puoi fatturare al tuo ex capo (e quando no)'",
+      "main_question": "Come evitare o ridurre la doppia tassazione su redditi percepiti all'estero?",
+      "content_idea": "Guida fiscale: 'Lavori all'estero? Come non pagare le tasse due volte'",
       "subreddits": [
         "r/commercialisti"
       ]
     },
     {
-      "trend_name": "Controlli automatici ADE e accertamenti",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come funzionano i controlli automatici dell'Agenzia delle Entrate e come gestire accertamenti di piccolo importo?",
-      "content_idea": "Reel: 'AdE ti chiede 7 euro? Ecco perché puoi non pagare (e la legge che lo permette)'",
+      "trend_name": "Controlli automatici Agenzia delle Entrate",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come contestare controlli automatici dell'AdE per importi irrisori o calcoli errati?",
+      "content_idea": "Reel: 'AdE ti chiede 7 euro? Esiste una legge per non pagare micro-accertamenti!'",
       "subreddits": [
         "r/commercialisti"
       ]
