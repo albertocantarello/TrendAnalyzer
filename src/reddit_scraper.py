@@ -1,5 +1,6 @@
 import feedparser
 import time
+import requests
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
@@ -37,7 +38,11 @@ class RedditScraper:
                 url += f"?after={after}"
 
             try:
-                feed = feedparser.parse(url)
+                # Usa requests con un User-Agent esplicito per non farsi bloccare da Reddit (errore 429)
+                headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 TrendAnalyzer/1.0'}
+                response = requests.get(url, headers=headers, timeout=15)
+                response.raise_for_status()
+                feed = feedparser.parse(response.content)
             except Exception as e:
                 print(f"  Errore leggendo r/{sub_name} (pagina {page}): {e}")
                 break
