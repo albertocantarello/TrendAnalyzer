@@ -44,8 +44,21 @@ def main():
     # 2. IA Processing
     try:
         processor = AIProcessor()
-        trends = processor.process_posts(posts)
-        print(f"Claude ha trovato {len(trends)} trend distinti.")
+        
+        from collections import defaultdict
+        grouped_posts = defaultdict(list)
+        for p in posts:
+            grouped_posts[p.get('subreddit', 'unknown')].append(p)
+            
+        trends = []
+        for sub, sub_posts in grouped_posts.items():
+            if sub == 'unknown':
+                continue
+            print(f"Elaborazione IA per r/{sub} ({len(sub_posts)} post)...")
+            sub_trends = processor.process_posts(sub_posts, sub_name=sub)
+            trends.extend(sub_trends)
+            
+        print(f"Claude ha trovato un totale di {len(trends)} trend distinti.")
     except Exception as e:
         print(f"ERRORE AIProcessor: {e}")
         return
