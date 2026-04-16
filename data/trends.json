@@ -1,210 +1,398 @@
 {
-  "last_update": "2026-04-09T14:20:02.694770",
+  "last_update": "2026-04-16T12:56:57.721570",
   "trends": [
     {
-      "trend_name": "Fringe benefit auto aziendali e calcolo tassazione",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come si calcola correttamente la tassazione sui fringe benefit per auto aziendali ad uso promiscuo e quali sono le nuove regole 2026?",
-      "content_idea": "Video tutorial: 'Auto aziendale 2026: come calcolare il fringe benefit e ottimizzare la tassazione'",
+      "trend_name": "Dubbi e anomalie in busta paga",
+      "frequency": "Alta",
+      "post_count": 6,
+      "main_question": "Come verificare se le trattenute, le voci e il netto in busta paga sono corretti rispetto alla RAL dichiarata e al CCNL applicato?",
+      "content_idea": "Video/reel: 'Come leggere la busta paga in 5 minuti: le voci che devi controllare ogni mese' con esempio pratico su IRPEF, detrazioni e contributi.",
       "subreddits": [
-        "r/consulentidellavoro",
-        "r/commercialisti"
+        "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Dimissioni per giusta causa e mancato pagamento stipendi",
+      "trend_name": "Calcolo netto da RAL e primo stipendio",
+      "frequency": "Alta",
+      "post_count": 5,
+      "main_question": "Quanto prenderò netto con una RAL di X euro su Y mensilità, considerando CCNL, detrazioni e addizionali? La tassazione cambia al primo anno di lavoro?",
+      "content_idea": "Post/carosello: 'Da RAL a netto: come si calcola lo stipendio reale nel 2026' con simulazioni per le RAL più comuni (26k, 32k, 33k) e differenze tra 13 e 14 mensilità.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "ROL: azzeramento, gestione e ore in negativo",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Quando si può procedere con dimissioni per giusta causa in caso di stipendi non pagati e come tutelarsi legalmente?",
-      "content_idea": "Post LinkedIn: 'Stipendi non pagati: la guida completa alle dimissioni per giusta causa'",
+      "main_question": "È legale che il datore di lavoro azzeri i ROL a gennaio senza monetizzarli, o che li metta in negativo scalandoli dal TFR senza consenso del lavoratore?",
+      "content_idea": "Reel: 'ROL: cosa sono, come si accumulano e cosa può fare (e non fare) il datore di lavoro' con focus su CCNL Commercio e tutele del lavoratore.",
       "subreddits": [
         "r/consulentidellavoro",
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Dimissioni in periodo protetto maternità",
+      "trend_name": "Preavviso dimissioni e decorrenza",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il preavviso in caso di dimissioni volontarie deve decorrere obbligatoriamente dal 1° o dal 16 del mese, o può partire da qualsiasi giorno?",
+      "content_idea": "Post: 'Dimissioni e preavviso: tutto quello che devi sapere sulla decorrenza secondo il tuo CCNL' con esempi pratici per CCNL Studi Professionali e altri.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Superminimo assorbibile e passaggio di livello",
       "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come procedere correttamente con le dimissioni nel primo anno di vita del bambino e quale documentazione serve?",
-      "content_idea": "Checklist: 'Dimissioni protette maternità: procedura passo-passo e documenti necessari'",
+      "post_count": 2,
+      "main_question": "Il passaggio a un livello superiore comporta l'assorbimento del superminimo assorbibile? È legittimo che la differenza tra i minimi contrattuali venga tolta dal superminimo?",
+      "content_idea": "Video: 'Superminimo assorbibile: quando il datore può assorbirlo e quando no' con casi pratici su CCNL Metalmeccanici.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Contratto di apprendistato: offerta economica e condizioni",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come valutare un'offerta di lavoro in apprendistato con RAL 26k composta da minimo CCNL e superminimo ad personam assorbibile?",
+      "content_idea": "Carosello: 'Apprendistato professionalizzante: pro, contro e clausole da non firmare mai' con focus sul superminimo assorbibile.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Cambio CCNL imposto dal datore di lavoro",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il datore di lavoro può imporre unilateralmente il passaggio a un CCNL più svantaggioso con riduzione di stipendio, eliminazione di ROL e richiesta di firma di clausola liberatoria?",
+      "content_idea": "Post: 'Il datore ti cambia il contratto collettivo: è legale? Cosa puoi fare per tutelarti'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Ritenuta d'acconto: lordo/netto e funzionamento",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come funziona la ritenuta d'acconto al 20%? Qual è il netto effettivo su un compenso orario lordo di 15€?",
+      "content_idea": "Reel: 'Ritenuta d'acconto spiegata semplice: quanto ti rimane davvero in tasca e come recuperarla con la dichiarazione dei redditi'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "CUD e recupero detrazioni non applicate",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Se le detrazioni IRPEF non sono state applicate mensilmente in busta paga, si recuperano con la dichiarazione dei redditi?",
+      "content_idea": "Post: 'CUD e detrazioni non scalate: cosa succede in dichiarazione dei redditi e come non perdere soldi'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Tasse su TFR e incentivo all'esodo",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come vengono tassati TFR e incentivo all'esodo? Ci sono differenze di trattamento fiscale tra le due voci?",
+      "content_idea": "Video: 'TFR e incentivo all'esodo: tassazione separata, aliquote e come evitare brutte sorprese fiscali'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "NASpI con qualità di socio d'opera e zero compenso",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Si può percepire la NASpI se si è soci d'opera di una società senza percepire alcun compenso?",
+      "content_idea": "Post: 'NASpI e società: quando essere socio d'opera o amministratore senza compenso non blocca l'indennità di disoccupazione'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Ferie scalate arbitrariamente dal datore",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il datore di lavoro può scalare ore di ferie settimanalmente senza il consenso del lavoratore?",
+      "content_idea": "Reel: 'Ferie obbligatorie imposte dal datore: cosa dice la legge e quando puoi opporti'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Inquadramento contrattuale non corrispondente alle mansioni svolte",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Cosa fare se si è inquadrati con un livello inferiore rispetto alle mansioni effettivamente svolte? Si può richiedere il riallineamento contrattuale e le differenze retributive arretrate?",
+      "content_idea": "Video: 'Mansioni superiori e inquadramento sbagliato: come richiedere il livello giusto e recuperare le differenze retributive'.",
       "subreddits": [
         "r/consulentidellavoro",
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Mancato pagamento di stipendi, TFR e spettanze alla fine del rapporto",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Cosa fare se il datore di lavoro non paga TFR, ferie non godute, tredicesima e ultimi stipendi a distanza di mesi dalla cessazione del rapporto?",
+      "content_idea": "Post: 'Il datore non paga TFR e spettanze finali: iter legale passo dopo passo, dal sindacato al decreto ingiuntivo'.",
+      "subreddits": [
         "r/Avvocati",
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "NASPI dopo dimissioni volontarie e strategie",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "È possibile ottenere la NASPI dopo dimissioni volontarie lavorando per il periodo minimo di 13 settimane?",
-      "content_idea": "Reel: 'NASPI dopo dimissioni: il trucco delle 13 settimane funziona davvero?'",
-      "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Problemi con contratti di locazione e recesso",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Quali sono i diritti e doveri in caso di recesso anticipato da contratto di locazione e quando le clausole sono valide?",
-      "content_idea": "Video esplicativo: 'Affitto: come recedere dal contratto senza perdere la caparra'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Dichiarazione crypto e minusvalenze trading",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come dichiarare correttamente le perdite da crypto e trading su broker esteri nel quadro RW/RT?",
-      "content_idea": "Guida pratica: 'Crypto e trading estero: dichiarare le perdite per compensare i futuri guadagni'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Mobbing e molestie sul lavoro",
+      "trend_name": "Ricatto e pressioni del datore di lavoro per firma di accordi tombali",
       "frequency": "Media",
       "post_count": 2,
-      "main_question": "Come dimostrare e documentare situazioni di mobbing quando non ci sono prove concrete?",
-      "content_idea": "Post informativo: 'Mobbing sul lavoro: come raccogliere le prove e tutelarsi legalmente'",
+      "main_question": "Il datore di lavoro può costringere il lavoratore a firmare un accordo liberatorio ('tombale') sotto minaccia? Quali sono le conseguenze legali e come tutelarsi?",
+      "content_idea": "Video: 'Accordo tombale sul lavoro: cos'è, quando è valido e come difendersi dalle pressioni del datore'.",
       "subreddits": [
-        "r/consulentidellavoro",
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Controversie condominiali e diritti proprietari",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Come risolvere conflitti condominiali per uso spazi comuni, parcheggi e installazioni?",
-      "content_idea": "Video consulenza: 'Condominio: conosci i tuoi diritti su parcheggi e spazi comuni'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Multe e sanzioni stradali contestabili",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Quando e come contestare multe per errori procedurali o vizi nell'accertamento?",
-      "content_idea": "Tutorial: 'Multa sbagliata? Ecco quando puoi vincere il ricorso al Giudice di Pace'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Regime forfettario e collaborazioni con ex datori",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Quando un forfettario può fatturare a un ex datore di lavoro senza violare i limiti temporali?",
-      "content_idea": "Post LinkedIn: 'Forfettari e ex datori di lavoro: le regole da rispettare per evitare problemi'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Garanzie prodotti e difetti post-vendita",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come far valere la garanzia legale quando il venditore nega il difetto o offre solo la propria garanzia limitata?",
-      "content_idea": "Reel: 'Prodotto difettoso? La garanzia legale è sempre di 2 anni, non farti fregare!'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Separazioni e affido figli non coniugati",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come regolare affido e mantenimento per coppie non sposate con figli in caso di separazione?",
-      "content_idea": "Guida: 'Separazione senza matrimonio: diritti e doveri per l'affido dei figli'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Lavoro nero e part-time irregolari",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Quali sono i rischi del lavoro in nero mascherato da part-time e come tutelarsi?",
-      "content_idea": "Video denuncia: 'Part-time ma lavori full-time? Ecco come far valere i tuoi diritti'",
-      "subreddits": [
+        "r/Avvocati",
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Successioni e beneficio d'inventario",
+      "trend_name": "Insulti e mobbing da parte di superiori",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Quando conviene accettare un'eredità con beneficio d'inventario per proteggersi dai debiti?",
-      "content_idea": "Post educativo: 'Eredità con debiti? Il beneficio d'inventario ti protegge dal fallimento'",
+      "main_question": "Se un dirigente insulta ripetutamente un lavoratore (registrazioni disponibili), è possibile agire legalmente per ottenere risarcimento o legittimare le dimissioni per giusta causa?",
+      "content_idea": "Post: 'Insulti del capo sul lavoro: quando si configura il reato, come usare le registrazioni e come chiedere i danni'.",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Acquisti online e truffe e-commerce",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come ottenere rimborsi e risarcimenti per prodotti non conformi o servizi non erogati negli acquisti online?",
-      "content_idea": "Tutorial: 'Truffato online? La guida completa per ottenere il rimborso'",
+      "trend_name": "Datore che rifiuta cedolino e pagamento tracciabile",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il datore di lavoro può rifiutarsi di emettere il cedolino e cambiare metodo di pagamento da bonifico ad assegno senza consenso del lavoratore?",
+      "content_idea": "Reel: 'Stipendio in assegno e niente cedolino: è legale? Cosa rischia il datore e come tutelarti'.",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Cambio mansioni e demansionamento",
+      "trend_name": "Lavoro in nero e ricevuta retroattiva: rischi legali",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Firmare una ricevuta retroattiva per pagamenti ricevuti in nero da un anno e mezzo espone a rischi legali, soprattutto con permesso di soggiorno per studio?",
+      "content_idea": "Post: 'Lavoro in nero e ricevuta retroattiva: i rischi reali per il lavoratore e per il datore, soprattutto in caso di permesso di soggiorno'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Compravendita immobiliare: problemi al rogito",
       "frequency": "Media",
       "post_count": 2,
-      "main_question": "Quando un dipendente può rifiutare un cambio di mansione e quali sono le conseguenze legali?",
-      "content_idea": "Video consulenza: 'Ti hanno cambiato lavoro? Quando puoi dire no al demansionamento'",
-      "subreddits": [
-        "r/consulentidellavoro",
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "ISEE e patrimoni all'estero",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come dichiarare correttamente conti esteri e redditi stranieri per il calcolo ISEE?",
-      "content_idea": "Checklist: 'ISEE con patrimoni esteri: documenti e procedure per non sbagliare'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Incidenti stradali e CID contestati",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Come comportarsi quando l'altra parte contesta la dinamica dell'incidente già concordata nel CID?",
-      "content_idea": "Post informativo: 'CID firmato ma l'altro cambia versione? Ecco come difenderti'",
+      "main_question": "Cosa succede se i venditori non consegnano le chiavi al rogito come previsto nel preliminare? Come tutelarsi da occupazione abusiva post-rogito?",
+      "content_idea": "Video: 'Rogito senza chiavi: i tuoi diritti, le azioni legali possibili e come proteggerti prima di firmare il preliminare'.",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Doppia tassazione redditi esteri",
+      "trend_name": "Acquisto immobile con pignoramento attivo",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Come evitare o ridurre la doppia tassazione su redditi percepiti all'estero?",
-      "content_idea": "Guida fiscale: 'Lavori all'estero? Come non pagare le tasse due volte'",
+      "main_question": "Come tutelarsi nell'acquisto di un immobile gravato da pignoramento attivo? Quali sono i rischi del saldo e stralcio e le verifiche da fare?",
+      "content_idea": "Post: 'Compro casa con pignoramento: saldo e stralcio, rischi reali e checklist per non trovarsi nei guai'.",
       "subreddits": [
-        "r/commercialisti"
+        "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Controlli automatici Agenzia delle Entrate",
+      "trend_name": "Anomalie catastali in compravendita immobiliare",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Come contestare controlli automatici dell'AdE per importi irrisori o calcoli errati?",
-      "content_idea": "Reel: 'AdE ti chiede 7 euro? Esiste una legge per non pagare micro-accertamenti!'",
+      "main_question": "Cosa fare se il sedime catastale risulta intestato a soggetto diverso dal venditore e un subalterno ha destinazione d'uso difforme da quella reale?",
+      "content_idea": "Carosello: 'Prima di comprare casa: 5 controlli catastali e ipotecari che possono salvarti da un disastro legale'.",
       "subreddits": [
-        "r/commercialisti"
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Deposito cauzionale e controversie alla fine del contratto di locazione",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il proprietario può trattenere il deposito cauzionale per migliorie apportate dall'inquilino o per voci non dovute? Come tutelarsi alla riconsegna dell'immobile?",
+      "content_idea": "Reel: 'Deposito cauzionale: quando il proprietario non può trattenerlo e come difenderti con foto e verbale di riconsegna'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Contratto di locazione condiviso: diritti del coinquilino subentrato",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il coinquilino firmatario originario può realmente far cessare il contratto di affitto per tutti in caso di uscita, anche se altri sono subentrati con consenso scritto del proprietario?",
+      "content_idea": "Post: 'Affitto condiviso e subentro nel contratto: chi ha davvero potere sul contratto e come proteggerti da coinquilini 'ricattatori''.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Provvigione agenzia immobiliare per subentro nel contratto",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "L'agenzia immobiliare può pretendere la provvigione intera dal subentrante in un contratto di affitto se la ricerca dell'inquilino è stata fatta autonomamente dall'uscente?",
+      "content_idea": "Post: 'Subentro nell'affitto: l'agenzia ha diritto alla provvigione? La legge e la giurisprudenza spiegati in modo semplice'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Violazione della privacy e tracciamento GPS non autorizzato",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Quanto è grave la violazione subita da un acquirente a cui la concessionaria ha montato per errore un GPS che ha tracciato i suoi spostamenti per un anno e mezzo senza consenso?",
+      "content_idea": "Reel: 'GPS installato di nascosto: violazione della privacy, GDPR e come richiedere il risarcimento danni'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Prescrizione crediti ceduti da società di recupero",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Una fattura telefonica del 2018 ceduta a una società di recupero crediti nel 2026 è prescritta? Come eccepire la prescrizione?",
+      "content_idea": "Post: 'Credito prescritto e recupero crediti: come eccepire la prescrizione e bloccare le richieste di pagamento tardive'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Garanzia legale prodotti acquistati online senza scontrino",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Un e-commerce può rifiutare la garanzia legale di un prodotto se l'acquirente non ha lo scontrino cartaceo ma ha la schermata dell'ordine e il pagamento tracciato?",
+      "content_idea": "Reel: 'Garanzia legale senza scontrino: cosa dice il Codice del Consumo e come far valere i tuoi diritti con gli acquisti online'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Diritto di recesso e-commerce e rimborso ritardato",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Se il prodotto è stato restituito regolarmente entro i termini di recesso e il venditore non rimborsa dopo 2 mesi, quali azioni legali si possono intraprendere?",
+      "content_idea": "Post: 'Recesso online non rimborsato: tempi legali, messa in mora e come agire con PEC, Arbitro Bancario e giudice di pace'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Recupero crediti per piccoli importi: procedura e costi",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come funziona nella pratica il recupero crediti per fatture insolute tra 1.000 e 3.000 euro? Quali verifiche si fanno e quando vale la pena procedere?",
+      "content_idea": "Video: 'Recupero crediti da 1 a 3k: visure, diffida, decreto ingiuntivo e procedura per piccoli crediti spiegati step by step'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Assicurazione mutuo e sinistro per invalidità/decesso",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Se la polizza 'proteggi mutuo' copre anche l'invalidità totale e non è stato aperto il sinistro al momento della certificazione, è ancora possibile recuperare le rate pagate dopo l'evento?",
+      "content_idea": "Post: 'Polizza mutuo e invalidità: come aprire il sinistro anche tardivamente e cosa spetta agli eredi in caso di decesso'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Cartella Agenzia Entrate per canone RAI: autotutela",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Come presentare istanza di autotutela per una cartella canone RAI relativa a un anno in cui l'importo era già stato pagato dall'ex coniuge tramite bolletta elettrica?",
+      "content_idea": "Post: 'Cartella canone RAI già pagato: come fare autotutela, quali documenti allegare e come evitare di pagare due volte'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Precedenti penali e casellario giudiziale dopo assoluzione",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "In caso di assoluzione, i precedenti penali risultano comunque nel casellario giudiziale? Cosa viene effettivamente riportato?",
+      "content_idea": "Post: 'Casellario giudiziale: cosa risulta dopo una condanna, dopo un'assoluzione e dopo la prescrizione — guida pratica'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Problemi con corrieri e mancata consegna pacchi",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Se il corriere non suona e marca il pacco come non consegnato, quali diritti ha il destinatario e come può tutelarsi legalmente?",
+      "content_idea": "Reel: 'Corriere che non consegna e marca assente: i tuoi diritti, come fare reclamo e quando puoi chiedere il risarcimento'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Idoneità al carcere e differimento della pena",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "In quali casi pratici una persona viene considerata non idonea al carcere e la pena viene differita o eseguita in modalità alternativa?",
+      "content_idea": "Post: 'Pena differita e misure alternative al carcere: invalidità, malattia grave e altri casi previsti dalla legge italiana'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Modifica unilaterale ordine da parte di e-commerce",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Un e-commerce può modificare unilateralmente un ordine già confermato (cambiando la quantità del prodotto) senza avvisare il cliente? Quali rimedi legali esistono?",
+      "content_idea": "Post: 'E-commerce che modifica l'ordine senza dirti niente: è legale? Come ottenere il prodotto originale o il rimborso'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Credito non dovuto in fattura dal fornitore: chi rischia",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Se un fornitore emette fatture a zero per errore da anni applicando un credito non dovuto, può richiedere retroattivamente tutti i pagamenti non effettuati?",
+      "content_idea": "Post: 'Fattura a zero per errore del fornitore: prescrizione, buona fede e rischi di recupero retroattivo del credito'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Dimissioni per giusta causa per condotta lesiva del datore",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Il rifiuto del datore di compilare un documento scolastico richiesto dal lavoratore può configurare giusta causa per le dimissioni con diritto alla NASpI?",
+      "content_idea": "Reel: 'Dimissioni per giusta causa: quando spetta la NASpI e quali comportamenti del datore la legittimano'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Amministratore di condominio: irregolarità assembleari e accesso ai documenti",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "È legale convocare un'assemblea condominiale per approvare più bilanci e resoconti contemporaneamente, con accesso alla documentazione limitato a 2 ore?",
+      "content_idea": "Post: 'Assemblea condominiale irregolare: quando impugnarla, come accedere ai documenti e quando fare un esposto alla GdF'.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "JetHR: integrazione software e clausole di non concorrenza",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Collaborare con JetHR come consulente del lavoro comporta rischi di non concorrenza verso i propri clienti, considerando che la piattaforma serve sia professionisti che aziende?",
+      "content_idea": "Post: 'JetHR e consulenti del lavoro: vantaggi dell'integrazione, rischi di conflitto di interessi e cosa controllare nel contratto'.",
+      "subreddits": [
+        "r/consulentidellavoro"
       ]
     }
   ]
