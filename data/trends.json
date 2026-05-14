@@ -1,242 +1,242 @@
 {
-  "last_update": "2026-05-07T12:27:55.097526",
+  "last_update": "2026-05-14T12:24:25.900671",
   "trends": [
     {
-      "trend_name": "Busta Paga: Errori, Discrepanze e Voci Incomprensibili",
+      "trend_name": "Busta Paga: Lettura, Controllo e Voci Incomprensibili",
       "frequency": "Alta",
-      "post_count": 7,
-      "main_question": "Come verificare la correttezza della propria busta paga? Addizionali mancanti, festività non pagate, discrepanze tra offerta e stipendio effettivo, crollo del netto: cosa controllare e come contestare?",
-      "content_idea": "Video/carosello: 'Guida pratica alla lettura della busta paga – le 5 voci che quasi nessuno controlla (e che possono costarti centinaia di euro)'",
+      "post_count": 6,
+      "main_question": "Come si leggono e verificano correttamente le voci della busta paga? Netto atteso, trattamento integrativo, TFR, bonus e voci anomale: come capire se i conteggi sono corretti?",
+      "content_idea": "Video/carosello: 'Come leggere la tua busta paga in 5 minuti' con guida pratica alle voci principali (netto, trattenute, TFR, bonus, trattamento integrativo) e come verificare eventuali errori.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Fringe Benefit: Auto Aziendale e Ottimizzazione Fiscale",
+      "trend_name": "Contratto di Apprendistato: Durata, Recesso e Anomalie",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come gestire il fringe benefit dell'auto aziendale per restare sotto le soglie di esenzione fiscale? Vale la pena chiedere una trattenuta volontaria per risparmiare IRPEF?",
-      "content_idea": "Reel: 'Auto aziendale in busta paga: come il fringe benefit può farti pagare più tasse e come evitarlo legalmente'",
+      "main_question": "Come funziona il recesso dall'apprendistato alla scadenza naturale? È possibile estendere l'apprendistato oltre i tre anni? Quali sono i diritti del lavoratore in questa fase?",
+      "content_idea": "Reel: 'Apprendistato: cosa succede alla scadenza?' con focus su recesso, passaggio automatico a tempo indeterminato e casi in cui l'azienda prolunga illegittimamente il contratto.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Welfare Aziendale e Premio di Produttività: Obblighi e Destinazione",
+      "trend_name": "Cambio CCNL Aziendale: Da Metalmeccanico a Commercio",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Quando l'azienda cambia il CCNL applicato, il lavoratore può perdere retribuzione o diritti acquisiti? Come tutularsi e quale livello spetta nel nuovo contratto?",
+      "content_idea": "Post/video: 'L'azienda cambia il tuo CCNL: cosa puoi fare?' con spiegazione dei diritti acquisiti, corrispondenza tra livelli e ruolo del sindacato.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "NASpI: Calcolo, Compatibilità e Strategie di Accesso",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "I buoni welfare previsti dal CCNL sono obbligatori o discrezionali? È possibile destinare parte del premio di produttività al fondo pensione invece che in busta paga con tassazione ordinaria?",
-      "content_idea": "Post/video: 'Welfare aziendale da CCNL: obbligatorio o facoltativo? E come convertire il premio produttività in previdenza complementare'",
+      "main_question": "Come si calcola la NASpI (durata e importo) con contratti a chiamata o a tempo determinato? È compatibile con apertura di P.IVA o borsa di specializzazione? Come accedere alla NASpI anticipata?",
+      "content_idea": "Video: 'NASpI 2025: tutto quello che devi sapere su calcolo, compatibilità con P.IVA e NASpI anticipata' con casi pratici e simulazioni.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Dimissioni: Procedure, Giusta Causa e Gestione delle Ferie Residue",
+      "trend_name": "Cambio Lavoro a Metà Anno: Gestione Fiscale e Conguaglio IRPEF",
       "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come gestire correttamente le dimissioni per giusta causa post-maternità (convalida ITL necessaria o no)? È possibile restare in servizio per smaltire le ferie residue invece di monetizzarle?",
-      "content_idea": "Carosello: 'Dimissioni in Italia: 4 casistiche diverse, 4 procedure diverse – guida completa per lavoratori e HR'",
+      "post_count": 2,
+      "main_question": "Come evitare un pesante conguaglio IRPEF a debito quando si cambia datore di lavoro in corso d'anno? Come usare correttamente la CU provvisoria e le detrazioni per lavoro dipendente?",
+      "content_idea": "Carosello: 'Cambi lavoro a metà anno? Ecco come non pagare salato a fine anno' con istruzioni su CU provvisoria, detrazioni e comunicazione al nuovo datore.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Irregolarità nei Rapporti di Lavoro: Lavoro Nero, Occasionale Abusivo e TFR Manipolato",
+      "trend_name": "Inquadramento e Livello Contrattuale: Mansioni Superiori Non Riconosciute",
       "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come tutelarsi in caso di lavoro in nero con ore extra non retribuite, contratto occasionale usato oltre i limiti di legge o TFR 'inglobato' surrettiziamente nella retribuzione oraria?",
-      "content_idea": "Video: 'Lavoro irregolare: 3 casi reali e come difendersi – dal contratto occasionale abusivo al TFR fantasma'",
+      "post_count": 2,
+      "main_question": "Se un lavoratore svolge mansioni superiori al proprio livello contrattuale per più di 6 mesi, ha diritto automatico al passaggio di livello? Come farlo valere in azienda?",
+      "content_idea": "Reel: 'Fai un lavoro più qualificato di quello per cui sei pagato? Ecco i tuoi diritti sul passaggio di livello' con riferimenti normativi e consigli pratici.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "CCNL e Inquadramento: Livelli, Turni e Diritti Contrattuali",
+      "trend_name": "Dimissioni Forzate e Pressioni Illegittime del Datore",
       "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Quali diritti derivano dall'inquadramento contrattuale? I laureati hanno diritto a un livello minimo? Il riposo dopo turno notturno è garantito anche rientrando dalle ferie? Si può negoziare la mansione in fase di assunzione?",
-      "content_idea": "Carosello: 'CCNL Metalmeccanico: 4 diritti che i lavoratori spesso non conoscono – dall'inquadramento dei laureati al riposo notturno'",
+      "post_count": 2,
+      "main_question": "Il datore di lavoro può costringere i dipendenti a dimettersi per poi riassumerli, evitando così di dover erogare ammortizzatori sociali o indennità di licenziamento? Come tutelarsi?",
+      "content_idea": "Video: 'Ti hanno chiesto di dimetterti per poi riassumerti? È illegale: ecco cosa fare' con spiegazione delle dimissioni forzate, nullità e strumenti di tutela.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Fiscalità del Lavoro Dipendente: 730, Addizionali e Bonus",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come funziona il recupero tramite 730 delle addizionali non trattenute dopo cambio lavoro? Come si calcola correttamente il bonus L.207/2024 in caso di reddito annuo inferiore alla soglia?",
-      "content_idea": "Video: '730 e lavoro dipendente: i 3 errori più comuni su addizionali, bonus e conguagli che puoi correggere subito'",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Casi Straordinari: Decesso del Datore di Lavoro e Gestione dei Dipendenti",
+      "trend_name": "Maternità e Tutele su Contratto a Tempo Determinato",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Quali adempimenti immediati deve eseguire il consulente del lavoro in caso di decesso dell'amministratore unico/socio unico di una SRL, con eredi rinunciatari e dipendenti da tutelare ai fini NASPi?",
-      "content_idea": "Post approfondito: 'Morte del datore di lavoro in SRL unipersonale: cosa fare entro 24 ore per tutelare i dipendenti e il consulente stesso'",
+      "main_question": "Una lavoratrice a tempo determinato in interdizione anticipata per gravidanza a rischio, con contratto in scadenza prima del parto, ha diritto all'indennità INPS dopo la scadenza del contratto?",
+      "content_idea": "Post/carosello: 'Contratto a termine e maternità: perdi la tutela alla scadenza?' con spiegazione delle proroghe automatiche, diritti INPS e casi pratici.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Controversie Locazione: Caparra, Danni e Obblighi Locatore/Inquilino",
+      "trend_name": "Controversie Immobiliari e Condominio",
       "frequency": "Alta",
-      "post_count": 10,
-      "main_question": "Quali sono i diritti e i doveri di inquilini e proprietari in caso di mancata restituzione della caparra, danni all'immobile, manutenzioni non eseguite e affitti in nero?",
-      "content_idea": "Video/carosello: 'Caparra affitto: quando il proprietario può trattenerla e quando no – guida pratica con esempi reali e normativa vigente'",
+      "post_count": 18,
+      "main_question": "Come tutelarsi legalmente in caso di danni condominiali, vizi occulti, problemi con l'amministratore, infiltrazioni d'acqua, eternit del vicino, alberi che danneggiano la proprietà e controversie tra comproprietari?",
+      "content_idea": "Video/carosello: 'I 7 problemi condominiali più comuni e come risolverli legalmente' – dalla diffida all'amministratore inerte, ai vizi occulti post-acquisto, ai danni causati dai vicini, con indicazione degli strumenti legali disponibili (diffida, assemblea, mediazione, azione giudiziaria).",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Diritti del Lavoratore: Stipendi Non Pagati, Straordinari e Licenziamento",
+      "trend_name": "Locazioni: Diritti di Inquilini e Proprietari",
+      "frequency": "Alta",
+      "post_count": 9,
+      "main_question": "Quali sono i diritti e doveri di inquilini e proprietari in caso di morosità, clausole di tinteggiatura, recesso anticipato, registrazione del contratto, provvigioni agenziali e riparazioni straordinarie?",
+      "content_idea": "Reel: 'Affitto: 5 clausole che i proprietari inseriscono nei contratti ma che la legge considera nulle' – tinteggiatura obbligatoria, divieto animali, caparra eccessiva, ecc., con riferimenti normativi chiari.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Diritto del Lavoro: Contratti, Dimissioni e Tutele",
+      "frequency": "Alta",
+      "post_count": 9,
+      "main_question": "È possibile dimettersi da un contratto a termine senza penali? Come contestare un cambio di CCNL penalizzante, ottenere dimissioni per giusta causa, o richiedere TFR e arretrati non pagati?",
+      "content_idea": "Video: 'Dimissioni da contratto a tempo determinato: quando puoi farlo senza pagare nulla' – guida pratica con distinzione tra recesso per giusta causa, periodo di prova e casi ordinari.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Successioni ed Eredità: Casi Pratici",
+      "frequency": "Alta",
+      "post_count": 7,
+      "main_question": "Come gestire un'eredità senza testamento, bloccare eredi che non collaborano, vendere un immobile ereditato, o rivalersi su un tutore che ha mal gestito i beni del defunto?",
+      "content_idea": "Carosello: 'Eredità senza testamento: chi eredita cosa e cosa fare se i coeredi non cooperano' – guida step-by-step con focus su divisione giudiziale, rinuncia e responsabilità degli eredi.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Sinistri Stradali, Assicurazioni e Veicoli",
       "frequency": "Alta",
       "post_count": 8,
-      "main_question": "Cosa può fare un lavoratore quando l'azienda non paga stipendi, TFR o bonus, applica straordinari forfetizzati sotto il CCNL, o induce alle dimissioni tramite trasferimento punitivo?",
-      "content_idea": "Reel: 'Azienda che non ti paga? Ecco i 5 passi concreti da fare subito per tutelare i tuoi diritti – dal sollecito formale al decreto ingiuntivo'",
+      "main_question": "Come ottenere il risarcimento assicurativo in caso di sinistro con pirata della strada, incendio auto, garanzia su veicolo usato con motore rotto, o autonoleggio che imputa danni preesistenti?",
+      "content_idea": "Video: 'Incidente stradale: cosa fare nei primi 30 minuti per non perdere il risarcimento' – checklist fotografica, CID, denuncia, PEC all'assicurazione e tempistiche legali.",
       "subreddits": [
         "r/Avvocati"
       ]
     },
     {
-      "trend_name": "Problemi Immobiliari: Acquisto Casa, Vizi Occulti e Debiti Condominiali",
+      "trend_name": "Diffamazione Online e Querele per Insulti sui Social",
+      "frequency": "Media",
+      "post_count": 3,
+      "main_question": "È possibile querelare per insulti e commenti diffamatori ricevuti sui social media? Cosa rischia chi insulta online e come si quantifica il risarcimento?",
+      "content_idea": "Reel: 'Ti hanno insultato online? Ecco quando puoi querelare e cosa ti spetta' – distinzione tra ingiuria, diffamazione, hate speech e iter pratico per tutelarsi.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Pratica Forense e Carriera in Avvocatura",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Vale ancora la pena intraprendere la carriera forense? Come affrontare i colloqui per il praticantato, gestire i contributi Cassa Forense nei primi anni e orientarsi verso specializzazioni come il diritto commerciale internazionale?",
+      "content_idea": "Video: 'Iniziare la pratica forense nel 2025: costi reali, Cassa Forense, colloqui e cosa aspettarsi davvero' – testimonianza diretta con dati su contributi minimi, reddito medio e prospettive di specializzazione.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Truffe e Frodi: Denuncia e Tutele Pratiche",
+      "frequency": "Alta",
+      "post_count": 6,
+      "main_question": "Come comportarsi dopo aver subito una truffa (autonoleggio, e-commerce, Booking.com, macchinario non consegnato)? Vale la pena denunciare e quali sono le reali prospettive di recupero del danno?",
+      "content_idea": "Video: 'Truffa online o dal vivo: denuncia sì o no? Guida pratica con esempi reali' – analisi costi-benefici della denuncia, differenza tra archiviazione e processo, strumenti alternativi come la mediazione.",
+      "subreddits": [
+        "r/Avvocati"
+      ]
+    },
+    {
+      "trend_name": "Dichiarazione 730 e Precompilata: Dubbi e Anomalie",
+      "frequency": "Alta",
+      "post_count": 9,
+      "main_question": "Come gestire correttamente il 730 precompilato in caso di cambio lavoro, fondi pensione, una tantum non riportata, detrazioni per figli, centri estivi e rimborsi welfare?",
+      "content_idea": "Video guida: '730 precompilato 2025 – i 5 errori più comuni che costano caro' con esempi pratici su cambio lavoro, CU multiple, detrazioni figli e fondi pensione.",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Fiscalità Internazionale: Residenza, AIRE e Doppia Tassazione",
+      "frequency": "Alta",
+      "post_count": 10,
+      "main_question": "Chi lavora o si trasferisce all'estero (Finlandia, Francia, Irlanda, Svizzera, UK, Germania) deve pagare le tasse anche in Italia? Quando iscriversi all'AIRE e quali conseguenze ha la mancata iscrizione?",
+      "content_idea": "Reel: 'Lavori o vivi all'estero? Ecco quando l'Italia ti chiede le tasse lo stesso' – guida pratica su residenza fiscale, AIRE, convenzioni contro la doppia imposizione.",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Regime Forfettario: Limiti, Regole e Casi Limite",
+      "frequency": "Alta",
+      "post_count": 8,
+      "main_question": "È possibile aprire o mantenere la P.IVA forfettaria con monocommittente estero, da frontaliere, dopo un anno in ordinario, o con reddito da dipendente superiore a 35.000€? Come funziona l'aliquota al 5% startup?",
+      "content_idea": "Post carosello: 'Forfettario SÌ o NO? I 6 casi limite che devi conoscere nel 2025' – monocommittente, frontalieri, rientro da ordinario, limite 35k.",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Crypto e Asset Digitali: Dichiarazione e Ravvedimento",
+      "frequency": "Alta",
+      "post_count": 6,
+      "main_question": "Come dichiarare correttamente Bitcoin, crypto su exchange esteri (Kraken, Binance, Degiro)? Vanno compilati il quadro RW e il quadro W? Come fare ravvedimento operoso per omissioni passate?",
+      "content_idea": "Video tutorial: 'Crypto e dichiarazione dei redditi 2025 – quadro RW, IVAFE e ravvedimento operoso: tutto quello che devi sapere'.",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Immobili: IMU, Cedolare Secca, Detrazioni e Bonus Ristrutturazione",
+      "frequency": "Alta",
+      "post_count": 8,
+      "main_question": "Come funzionano IMU su pertinenze in comuni diversi, cedolare secca per affitti brevi (Airbnb), bonus mobili senza CILA, detrazioni per ristrutturazione pagata da un familiare e canone concordato?",
+      "content_idea": "Guida pratica: 'Casa e fisco 2025 – IMU, bonus ristrutturazione, cedolare secca e Airbnb: le domande più frequenti' con casi pratici e simulazioni.",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Busta Paga, TFR e Cambio CCNL",
+      "frequency": "Alta",
+      "post_count": 6,
+      "main_question": "Come verificare la correttezza della busta paga, del calcolo del TFR e delle conseguenze del cambio CCNL da Metalmeccanico a Commercio in termini di livello, retribuzione e fondi pensione?",
+      "content_idea": "Post: 'Cambio CCNL aziendale – cosa controllare subito per non perdere soldi: TFR, livello, contributi e diritti acquisiti'.",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Ottimizzazione Fiscale con Trasferimento di Residenza (Regime Impatriati, Non-Dom, 7% Sud)",
+      "frequency": "Media",
+      "post_count": 4,
+      "main_question": "Come strutturare fiscalmente il trasferimento in Italia o a Malta per sfruttare il regime impatriati, il Non-Dom maltese o l'agevolazione 7% per i piccoli comuni del Sud?",
+      "content_idea": "Video: 'Regime impatriati, Non-Dom Malta e 7% piccoli comuni del Sud – quale conviene davvero nel 2025?' con confronto tra le tre opzioni e requisiti pratici.",
+      "subreddits": [
+        "r/commercialisti"
+      ]
+    },
+    {
+      "trend_name": "Partita IVA e Apertura Attività: Obblighi, Struttura Societaria e NASPI Anticipata",
       "frequency": "Alta",
       "post_count": 7,
-      "main_question": "Come tutelarsi dopo l'acquisto di un immobile in caso di vizi occulti scoperti dopo il rogito, debiti condominiali non dichiarati o difformità catastali?",
-      "content_idea": "Post/video: 'Hai comprato casa e trovi brutte sorprese? Vizi occulti, debiti condominiali e difformità: cosa dice la legge e come farti rimborsare'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Diffide e Diffamazione Online: Commenti sui Social e Rischio Penale",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Cosa fare quando si riceve una diffida formale per un commento pubblicato sui social media? Ignorarla o rispondere espone a rischi reali di causa civile o penale per diffamazione?",
-      "content_idea": "Video: 'Hai ricevuto una diffida per un commento su Facebook o Instagram? Ecco cosa significa davvero e quando devi preoccuparti (e quando no)'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Multa e Patente: Autovelox, Recidiva e Sospensione",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Come funziona la recidiva sulle infrazioni al codice della strada (autovelox, semaforo rosso), quando scatta la sospensione della patente e conviene non comunicare i dati del conducente?",
-      "content_idea": "Carosello: 'Autovelox: recidiva, sospensione patente e mancata comunicazione dati – tutto quello che devi sapere prima di pagare la multa'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Successioni e Eredità: Rinuncia, Usufrutto e Situazioni Complesse",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Quali rischi si corrono con la rinuncia all'eredità, la gestione di immobili in comproprietà con quote ipotecate o successioni incomplete, e come proteggere il patrimonio familiare tramite usufrutto?",
-      "content_idea": "Video: 'Eredità complicata? Rinuncia, usufrutto e immobili bloccati: le trappole più comuni e come evitarle con l'aiuto di un avvocato'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Carriera Forense: Pratica, Concorsi e Scelte Professionali",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Vale la pena completare la pratica forense o è meglio abbandonare e puntare ai concorsi pubblici? Come affrontare il primo colloquio in uno studio legale e come orientarsi tra law firm, boutique e in-house?",
-      "content_idea": "Reel/video: 'Pratica forense vs concorsi pubblici: la scelta che nessuno ti spiega davvero – pro, contro e consigli da chi ci è passato'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Garanzia del Consumatore: Prodotti Difettosi e Controversie con Venditori",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Come far valere la garanzia legale su prodotti difettosi (televisore, auto, serramenti, bici) quando il venditore si rifiuta di sostituire o riparare, o addebita costi non dovuti?",
-      "content_idea": "Post/video: 'Prodotto rotto e il venditore non ti aiuta? La garanzia legale di 2 anni è un tuo diritto: ecco come farla valere passo per passo'",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "730 Precompilato: Errori, Dubbi e Gestione Doppia CU",
-      "frequency": "Alta",
-      "post_count": 22,
-      "main_question": "Come gestire correttamente il 730 precompilato in caso di doppia CU (cambio lavoro, NASpI, più datori), errori nei dati precompilati, calcolo acconti IRPEF e rimborsi non arrivati?",
-      "content_idea": "Video/carosello: 'I 5 errori più comuni nel 730 precompilato con doppia CU – e come correggerli prima di inviare'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Detrazioni e Bonus Casa nel 730: Ristrutturazione, Risparmio Energetico e Bonus Mobili",
-      "frequency": "Alta",
-      "post_count": 7,
-      "main_question": "Come inserire correttamente nel 730 le detrazioni per lavori di ristrutturazione, risparmio energetico e bonus mobili, soprattutto in caso di lavori pluriennali o regime forfettario?",
-      "content_idea": "Reel: 'Ristrutturazione casa: quando e come detrarre nel 730 – le trappole da evitare se sei in forfettario o hai venduto casa'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Crypto e Fisco: Dichiarazione, Wallet e Conti Esteri",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come dichiarare correttamente le criptovalute (acquisti, mining, wallet non verificati, IBAN estero su piattaforme come Trade Republic o Binance) nel 730 o Redditi PF?",
-      "content_idea": "Post/video: 'Crypto e dichiarazione dei redditi 2026: cosa dichiarare, dove farlo e cosa succede se hai un wallet non verificato o un IBAN estero'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Regime Impatriati: Casi Limite e Requisiti di Accesso",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Chi può accedere al regime impatriati? Come funziona l'estensione con acquisto casa in comproprietà? Cosa succede con anni trascorsi in più paesi o con residenza AIRE parziale?",
-      "content_idea": "Video: 'Regime impatriati 2026: i casi grigi – distacco estero, AIRE parziale, acquisto casa in comproprietà: quando si può accedere e quando no'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Residenza Fiscale e Redditi Esteri: Dove e Come Dichiarare",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Se si vive e lavora all'estero ma si mantiene la residenza in Italia (o si è iscritti AIRE), dove va dichiarato il reddito? Come evitare la doppia tassazione con pensioni estere o redditi da lavoro prodotti fuori Italia?",
-      "content_idea": "Carosello: 'Lavori all'estero ma sei ancora residente in Italia? Ecco cosa devi dichiarare e dove – guida pratica per AIRE e non AIRE'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "P.IVA Forfettaria: Gestione Autonoma, Detrazioni e Doppio Reddito",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "In regime forfettario è possibile gestire autonomamente la dichiarazione? Come funzionano le detrazioni per chi è in forfettario? È possibile abbinare P.IVA e lavoro dipendente?",
-      "content_idea": "Video: 'Forfettario nel 2026: cosa puoi fare da solo, cosa rischi senza commercialista e come funzionano (davvero) le detrazioni se hai la P.IVA'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Fondo Pensione nel 730: Deducibilità e Compilazione Corretta",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come inserire correttamente nel 730 i versamenti volontari al fondo pensione? Cosa va in E28? Come calcolare lo spazio residuo deducibile rispetto a quanto già dedotto in busta paga?",
-      "content_idea": "Post/reel: 'Fondo pensione e 730: come deduci davvero i versamenti volontari – il calcolo che in molti sbagliano'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "IMU: Prima Casa, Seconde Case e Casi Particolari",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come funziona l'esenzione IMU per la prima casa quando ci sono più unità immobiliari, comproprietà o cambio di residenza? Cosa succede quando la prima casa diventa seconda casa per motivi lavorativi?",
-      "content_idea": "Video: 'IMU 2026: quando paghi e quando sei esente – i casi di comproprietà, cambio residenza e seconde case che confondono tutti'",
+      "main_question": "Come aprire correttamente la P.IVA (obbligo Camera di Commercio, scelta del regime), come strutturare una SRL o holding personale, come accedere alla NASPI anticipata per avviare la libera professione e come gestire la pubblicazione di un videogioco o un servizio digitale con più soci?",
+      "content_idea": "Reel: 'Dalla NASPI alla P.IVA – come usare l'anticipo di disoccupazione per finanziare la tua attività: regole, limiti e trappole da evitare'.",
       "subreddits": [
         "r/commercialisti"
       ]
