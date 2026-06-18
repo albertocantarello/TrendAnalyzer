@@ -1,244 +1,84 @@
 {
-  "last_update": "2026-06-11T14:34:02.905241",
+  "last_update": "2026-06-18T13:58:53.640159",
   "trends": [
     {
-      "trend_name": "Dimissioni e Licenziamenti: Diritti e Conseguenze",
+      "trend_name": "RAL e Negoziazione Stipendio",
       "frequency": "Alta",
-      "post_count": 7,
-      "main_question": "Cosa succede dopo un licenziamento disciplinare o dopo dimissioni volontarie? Quali sono i diritti del lavoratore in termini di NasPi, penali e tutele?",
-      "content_idea": "Video/carosello: 'Licenziato o ti dimetti? Ecco cosa cambia davvero per NasPi, TFR e futuro lavorativo' — con focus su licenziamento disciplinare, dimissioni da contratto determinato e dimissioni per giusta causa.",
+      "post_count": 3,
+      "main_question": "Come si determina e si negozia una RAL adeguata, sia per il primo lavoro che per avanzamenti di livello o rinnovi contrattuali?",
+      "content_idea": "Video/reel: 'Come negoziare la RAL in 3 mosse: dal primo colloquio all'aumento di livello CCNL' con esempi pratici per neolaureati e lavoratori esperti.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Busta Paga: Lettura e Calcolo per Neoassunti",
-      "frequency": "Alta",
-      "post_count": 5,
-      "main_question": "Come si leggono le voci della busta paga? Come si calcola il netto mensile a partire da una busta parziale o da un imponibile IRPEF?",
-      "content_idea": "Reel o video tutorial: 'Prima busta paga: guida pratica per capire ogni voce — da imponibile IRPEF a detrazioni, recuperi e conguagli' con esempi reali.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "NasPi: Requisiti, Procedure e Gestione",
-      "frequency": "Alta",
-      "post_count": 5,
-      "main_question": "Quali sono i requisiti per accedere alla NasPi? Come funziona il PAD e cosa succede se si viene convocati al CPI durante le vacanze? La NasPi spetta anche in caso di dimissioni speciali (es. entro un anno dalla nascita del figlio)?",
-      "content_idea": "Post o video: 'NasPi 2025-2026: tutto quello che devi sapere su requisiti, PAD, convocazioni CPI e casi speciali (maternità, fine apprendistato)' — con FAQ pratiche.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "CCNL: Inquadramento, Livelli e Aumenti Contrattuali",
-      "frequency": "Alta",
-      "post_count": 6,
-      "main_question": "Come funziona l'inquadramento nei vari CCNL (metalmeccanico, chimico-farmaceutico, trasporti, terziario)? Gli aumenti da promozione assorbono quelli contrattuali IPCA? Qual è il preavviso corretto per le dimissioni?",
-      "content_idea": "Carosello: 'CCNL: come funzionano livelli, scatti, aumenti IPCA e assorbimento del superminimo — esempi pratici su metalmeccanico, chimico e terziario'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Fondo Pensione e TFR: Scelte e Problemi di Versamento",
+      "trend_name": "TFR: Gestione, Versamento e Fondi Pensione",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Qual è il fondo pensione corretto per il proprio CCNL (es. Fondapi vs Cometa per i metalmeccanici)? Cosa fare se il datore di lavoro non versa i contributi al fondo pensione nonostante li trattenga dalla busta paga?",
-      "content_idea": "Video: 'TFR e fondo pensione: come scegliere il fondo giusto, verificare i versamenti e tutelarsi in caso di omissioni del datore di lavoro'.",
+      "main_question": "Come funziona il versamento del TFR al fondo pensione, cosa succede se l'azienda non adempie e come si legge correttamente il TFR in busta paga?",
+      "content_idea": "Post carosello: 'TFR in busta paga: tutto quello che devi sapere – dal calcolo al versamento al fondo pensione, e cosa fare se qualcosa non torna'.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Cambio Lavoro: Gestione Fiscale e Contrattuale della Transizione",
+      "trend_name": "Dimissioni: Procedura, Preavviso e Conseguenze",
+      "frequency": "Alta",
+      "post_count": 4,
+      "main_question": "Qual è la procedura corretta per dare le dimissioni (portale INPS, preavviso CCNL, tempistiche), e quali rischi si corrono in caso di recesso da una proposta già firmata o da un contratto a tempo determinato?",
+      "content_idea": "Video step-by-step: 'Come dare le dimissioni in Italia nel 2025: procedura online, preavviso per CCNL e cosa rischi se ci ripensi dopo aver firmato'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "NASpI: Compatibilità, Calcolo e Casi Particolari",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come evitare il conguaglio IRPEF quando si cambia lavoro a metà anno? È legale avere due contratti attivi contemporaneamente durante una transizione? Come compilare correttamente il modulo detrazioni con il nuovo datore?",
-      "content_idea": "Post o video: 'Cambi lavoro a metà anno? Ecco come gestire detrazioni IRPEF, doppio contratto e conguaglio fiscale senza brutte sorprese a fine anno'.",
+      "main_question": "Quali lavori sono compatibili con la NASpI? Come viene calcolata per categorie particolari come supplenti scolastici? Cosa succede se si accetta un lavoro breve durante la percezione?",
+      "content_idea": "Reel: 'NASpI 2025: cosa puoi fare e cosa non puoi fare mentre la percepisci – lavori brevi, calcolo per supplenti e dimissioni con figli piccoli'.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Intelligenza Artificiale sul Lavoro: Obblighi e Tutele dei Dipendenti",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Il datore di lavoro può imporre l'uso di software IA di trascrizione e sorveglianza senza preavviso e senza informare l'RSU? Quali sono i diritti del lavoratore e gli obblighi di informativa?",
-      "content_idea": "Video o post: 'IA in azienda: cosa può fare il datore di lavoro senza il tuo consenso? Trascrizioni, registrazioni e sorveglianza digitale — i tuoi diritti spiegati semplicemente'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Partita IVA vs Contratto Dipendente: Convenienza e Scelta",
-      "frequency": "Bassa",
-      "post_count": 1,
-      "main_question": "Per un professionista (es. architetto) con P.IVA forfettaria, conviene passare a contratto dipendente CCNL o mantenere la P.IVA? Come valutare la convenienza reale tenendo conto di TFR, contributi, flessibilità e reddito netto?",
-      "content_idea": "Carosello o video: 'P.IVA forfettaria vs contratto dipendente: confronto netto reale, contributi, TFR e flessibilità — chi vince nel 2025/2026?'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Controversie Locazione: Affitto, Caparre e Proprietari",
-      "frequency": "Alta",
-      "post_count": 12,
-      "main_question": "Quali sono i diritti dell'inquilino in caso di trattenuta illegittima della caparra, richiesta di commissioni agenziali al rinnovo, aumento del canone, manutenzioni straordinarie a carico del conduttore e sfratto per morosità con vizi procedurali?",
-      "content_idea": "Video/reel 'I 5 diritti che ogni inquilino deve conoscere': dalla caparra alla fine del contratto, passando per le riparazioni straordinarie, il preavviso dell'aumento e le clausole nulle nei contratti di locazione.",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Diritto del Lavoro: Stipendi Non Pagati, Licenziamento e TFR",
-      "frequency": "Alta",
-      "post_count": 9,
-      "main_question": "Come tutelarsi quando il datore non paga stipendi e TFR, quando si viene licenziati senza giusta causa, quando lo stipendio viene decurtato illegittimamente o quando i contributi INPS non vengono versati?",
-      "content_idea": "Post carosello 'Datore di lavoro non ti paga? Ecco i 5 passi da seguire subito': dalla diffida via PEC al decreto ingiuntivo, passando per il ricorso al giudice del lavoro e la denuncia all'Ispettorato.",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Tutela del Consumatore: Acquisti, Resi e Garanzie",
-      "frequency": "Alta",
-      "post_count": 10,
-      "main_question": "Quali sono i rimedi legali quando un venditore (negozio fisico, e-commerce o concessionaria) rifiuta il rimborso per un prodotto difettoso, non rispetta la garanzia legale o propone solo buoni sostitutivi invece del reso in denaro?",
-      "content_idea": "Reel 'Il negozio ti ha dato un buono invece del rimborso? Ecco cosa dice la legge': spiegazione pratica della garanzia legale di 2 anni, del diritto al rimborso e degli strumenti di tutela (PEC, ADR, Giudice di Pace).",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Controversie con Vicini: Rumori, Confini e Danni",
-      "frequency": "Alta",
-      "post_count": 7,
-      "main_question": "Come procedere legalmente contro un vicino che causa disturbo della quiete, viola i confini di proprietà, crea danni (abbattimento muri, infiltrazioni, allarmi) o blocca porte antincendio condominiali?",
-      "content_idea": "Video 'Vicino difficile: denuncia, mediazione o causa civile? La guida definitiva' con albero decisionale su quando è opportuno procedere penalmente, civilmente o tentare la mediazione obbligatoria.",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Digitalizzazione della Giustizia: Processo Penale Telematico e Strumenti Digitali",
+      "trend_name": "Ferie, ROL e Gestione Orario di Lavoro",
       "frequency": "Media",
       "post_count": 4,
-      "main_question": "Come impatta sugli avvocati penalisti il Portale Depositi Penali, il PDP 2.0 e la digitalizzazione del fascicolo? Esistono strumenti pratici (trascrizione automatica, repository normative) per migliorare l'efficienza professionale?",
-      "content_idea": "Post professionale 'Il processo penale telematico nel 2026: stato dell'arte, problemi aperti e strumenti pratici per l'avvocato' con focus su PDP, sbobinatura automatica delle udienze e accesso al corpus normativo digitale.",
+      "main_question": "Come si calcolano e verificano le ferie maturate e i ROL? È legale imputare come ferie un giorno festivo lavorato in turno notturno? Si può rifiutare di firmare un addendum che modifica l'orario di lavoro?",
+      "content_idea": "Post educativo: 'Ferie, ROL e turni: i tuoi diritti in busta paga spiegati chiaramente – come controllare il tuo contatore e quando puoi dire no a un addendum contrattuale'.",
       "subreddits": [
-        "r/Avvocati"
+        "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Carriera Legale: Sbocchi, Specializzazioni e Scelte Professionali",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Quali sono i reali sbocchi professionali per un neolaureato in giurisprudenza che vuole specializzarsi in diritto del lavoro sindacale, mediazione civile o governance bancaria? Come si costruisce una carriera in questi settori?",
-      "content_idea": "Video intervista 'Avvocato giuslavorista sindacale vs. mediatore civile vs. legal governance bancaria: tre carriere a confronto' con professionisti che raccontano percorso, reddito reale e prospettive future.",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Separazione e Mantenimento Familiare",
+      "trend_name": "Decreto Coesione: Incentivi e Bonus Assunzioni",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come viene calcolato il mantenimento per i figli e l'eventuale assegno per l'ex coniuge/convivente in caso di separazione, tenendo conto dei redditi di entrambi, della casa coniugale con mutuo e dell'affido condiviso?",
-      "content_idea": "Reel 'Separazione: quanto pagherò di mantenimento?' con simulazione pratica basata su redditi, numero di figli e regime patrimoniale, sfatando i miti più comuni sulla giurisprudenza attuale.",
+      "main_question": "Come funziona il Decreto Coesione per le assunzioni under 35 e i bonus da 500€ collegati? A chi spettano e come si richiedono?",
+      "content_idea": "Video esplicativo: 'Decreto Coesione 2025: tutti gli incentivi per assumere under 35 – chi ne beneficia, come richiederli e quanto vale il bonus'.",
       "subreddits": [
-        "r/Avvocati"
+        "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Compravendita Immobiliare: Vizi, Agenzie e Tutele Acquirente",
-      "frequency": "Alta",
-      "post_count": 6,
-      "main_question": "Come tutelarsi quando si scopre un vizio edilizio dopo il preliminare, quando l'agenzia tace un pignoramento sull'immobile, quando i venditori vogliono rinegoziare il prezzo o quando il costruttore non risolve difetti dell'immobile di nuova costruzione?",
-      "content_idea": "Post 'Compri casa e scopri un problema? Ecco i tuoi 5 rimedi legali': dalla risoluzione del preliminare per inadempimento alla responsabilità dell'agenzia immobiliare, fino alla garanzia decennale del costruttore.",
-      "subreddits": [
-        "r/Avvocati"
-      ]
-    },
-    {
-      "trend_name": "Dichiarazione Crypto: Quadro RW, RT e obblighi fiscali",
-      "frequency": "Alta",
-      "post_count": 10,
-      "main_question": "Come compilare correttamente il Quadro RW per criptovalute (exchange, wallet, bonus, copy trading)? Quando si generano plusvalenze tassabili e come dichiarare crypto ricevute come compenso professionale?",
-      "content_idea": "Video/reel: 'Crypto e dichiarazione dei redditi 2026: guida pratica al Quadro RW e RT - tutti i casi (Binance, Revolut, wallet personali, compensi in crypto)'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Regime Forfettario: limiti, vincoli e ingiustizie percepite",
-      "frequency": "Alta",
-      "post_count": 8,
-      "main_question": "Come funzionano i limiti degli 85k nel forfettario (si contano i materiali?)? Perché chi ha dipendente >35k non può accedere al forfettario? L'UE vuole abolirlo? Come gestire note di credito in forfettario senza sforare?",
-      "content_idea": "Post/carosello: 'Regime forfettario 2026: tutto quello che devi sapere sui limiti, le esclusioni e le novità UE - con esempi pratici'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Dichiarazione investimenti esteri: Quadro RW/W per broker stranieri (Scalable, DeGiro, Degiro)",
-      "frequency": "Alta",
-      "post_count": 7,
-      "main_question": "Come compilare il Quadro RW/W per investimenti su broker esteri come Scalable Capital e DeGiro? Come gestire ETF, IVAFE, fusioni di fondi e report fiscali con valori apparentemente errati?",
-      "content_idea": "Video tutorial: 'Scalable Capital, DeGiro e broker esteri: come compilare il Quadro W nel 730/Redditi PF 2026 - guida step by step con esempi reali'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Decreto Coesione Under 35: domande respinte e iter di riesame",
-      "frequency": "Alta",
-      "post_count": 5,
-      "main_question": "Perché le domande per l'incentivo Decreto Coesione INPS vengono respinte o rimangono bloccate in 'verifica requisiti'? Come procedere con il riesame?",
-      "content_idea": "Post/thread: 'Decreto Coesione Under 35: i motivi più comuni di rigetto e come fare ricorso - raccolta casi reali dalla community'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Regime Impatriati e fiscalità internazionale per rientri/trasferimenti",
-      "frequency": "Alta",
-      "post_count": 6,
-      "main_question": "Come funziona il regime impatriati per chi rientra in Italia? Come si calcola il reddito complessivo ai fini delle detrazioni? Come gestire la doppia residenza fiscale (Italia/Austria, Italia/Spagna) e la dichiarazione in entrambi i paesi?",
-      "content_idea": "Video: 'Regime impatriati 2026: come funziona, chi può accedere, come si calcola la quota imponibile e come gestire la doppia dichiarazione per chi si sposta tra paesi'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Bonus edilizi e detrazioni casa: ristrutturazioni, mobili, sismabonus",
-      "frequency": "Alta",
-      "post_count": 6,
-      "main_question": "Come funziona il Bonus Mobili se il bonifico parlante ha errori (CF sbagliato, importo errato)? Il bonus mobili è accessibile con solo installazione climatizzatori? È possibile cumulare sismabonus e bonus sicurezza in anni diversi? Come detrarre al 50/50 con coniuge?",
-      "content_idea": "Carosello/reel: 'Bonus casa 2026: gli errori più comuni su bonifici parlanti, bonus mobili e detrazioni condivise - come rimediare prima del 730'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "P.IVA: apertura, gestione e scelta tra forfettario e ordinario",
-      "frequency": "Alta",
-      "post_count": 7,
-      "main_question": "Vale la pena aprire P.IVA ordinaria per attività secondarie (YouTube, app, nutrizionista) quando si è già dipendenti? Conviene P.IVA o contratto dipendente? Come gestire prestazioni occasionali vs P.IVA? Come scegliere il codice ATECO corretto?",
-      "content_idea": "Video: 'P.IVA ordinaria vs forfettaria vs prestazione occasionale: quando conviene cosa nel 2026 - analisi con esempi di dipendenti con reddito aggiuntivo'",
-      "subreddits": [
-        "r/commercialisti"
-      ]
-    },
-    {
-      "trend_name": "Contributi INPS non pagati: sanzioni, prescrizione e ravvedimento",
+      "trend_name": "Tutele in Ambienti di Lavoro Irregolari o Ostili",
       "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Cosa succede se non si pagano i contributi INPS per anni (forfettario/commercianti)? Quali sono i termini di prescrizione? Come regolarizzare il debito evitando il peggio? Come pagare F24 INPS con sanzioni già maturate?",
-      "content_idea": "Post/video: 'INPS non pagato per anni: cosa rischi, quanto prescrivi e come regolarizzarti prima che arrivi il cartellino rosso - guida pratica 2026'",
+      "post_count": 2,
+      "main_question": "Come ci si tutela in un'azienda che gestisce in modo scorretto permessi, straordinari e presenze, o in cui si subiscono discriminazioni senza testimoni pronti a collaborare?",
+      "content_idea": "Post/video: 'Lavoro in un'azienda scorretta: come raccogliere prove, tutelarti legalmente e denunciare anche senza testimoni – la guida pratica per il lavoratore'.",
       "subreddits": [
-        "r/commercialisti"
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Supporto Formazione e Lavoro (SFL) e Misure di Politica Attiva",
+      "frequency": "Bassa",
+      "post_count": 1,
+      "main_question": "Quanto è impegnativo concretamente il percorso SFL (Supporto Formazione e Lavoro) in termini di ore e frequenza dei corsi obbligatori?",
+      "content_idea": "Reel informativo: 'SFL 2025: cos'è, come funziona e quanto tempo richiede davvero – la guida per chi vuole organizzarsi con i corsi obbligatori'.",
+      "subreddits": [
+        "r/consulentidellavoro"
       ]
     }
   ]
