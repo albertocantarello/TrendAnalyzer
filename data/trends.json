@@ -1,82 +1,82 @@
 {
-  "last_update": "2026-06-18T13:58:53.640159",
+  "last_update": "2026-06-25T13:13:21.328510",
   "trends": [
     {
-      "trend_name": "RAL e Negoziazione Stipendio",
+      "trend_name": "NASpI: requisiti, accesso e casi limite",
       "frequency": "Alta",
-      "post_count": 3,
-      "main_question": "Come si determina e si negozia una RAL adeguata, sia per il primo lavoro che per avanzamenti di livello o rinnovi contrattuali?",
-      "content_idea": "Video/reel: 'Come negoziare la RAL in 3 mosse: dal primo colloquio all'aumento di livello CCNL' con esempi pratici per neolaureati e lavoratori esperti.",
+      "post_count": 5,
+      "main_question": "In quali situazioni si ha diritto alla NASpI? Come si calcolano le 13 settimane contributive, cosa succede se si rifiuta un rinnovo, se si è studenti Erasmus o se si firmano accordi integrativi con stipendi differiti?",
+      "content_idea": "Video/carosello: 'NASpI 2025: chi ce l'ha davvero e chi no – 5 casi reali analizzati' con focus su dimissioni volontarie, rifiuto rinnovo, accordi aziendali e situazioni particolari come studenti o lavoratori con contratti misti.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "TFR: Gestione, Versamento e Fondi Pensione",
+      "trend_name": "TFR e busta paga: calcoli errati o poco chiari",
       "frequency": "Media",
       "post_count": 3,
-      "main_question": "Come funziona il versamento del TFR al fondo pensione, cosa succede se l'azienda non adempie e come si legge correttamente il TFR in busta paga?",
-      "content_idea": "Post carosello: 'TFR in busta paga: tutto quello che devi sapere – dal calcolo al versamento al fondo pensione, e cosa fare se qualcosa non torna'.",
+      "main_question": "Come si calcola correttamente il TFR in presenza di premi di produzione variabili? Come vengono gestiti i versamenti contributivi durante la cassa integrazione? Come si interpretano le voci fiscali nella CU e nella dichiarazione dei redditi?",
+      "content_idea": "Post tecnico: 'TFR: cosa entra davvero nel calcolo? Premi produzione, variabili e voci escluse – guida pratica per dipendenti e HR'.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
     },
     {
-      "trend_name": "Dimissioni: Procedura, Preavviso e Conseguenze",
-      "frequency": "Alta",
-      "post_count": 4,
-      "main_question": "Qual è la procedura corretta per dare le dimissioni (portale INPS, preavviso CCNL, tempistiche), e quali rischi si corrono in caso di recesso da una proposta già firmata o da un contratto a tempo determinato?",
-      "content_idea": "Video step-by-step: 'Come dare le dimissioni in Italia nel 2025: procedura online, preavviso per CCNL e cosa rischi se ci ripensi dopo aver firmato'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "NASpI: Compatibilità, Calcolo e Casi Particolari",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Quali lavori sono compatibili con la NASpI? Come viene calcolata per categorie particolari come supplenti scolastici? Cosa succede se si accetta un lavoro breve durante la percezione?",
-      "content_idea": "Reel: 'NASpI 2025: cosa puoi fare e cosa non puoi fare mentre la percepisci – lavori brevi, calcolo per supplenti e dimissioni con figli piccoli'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Ferie, ROL e Gestione Orario di Lavoro",
-      "frequency": "Media",
-      "post_count": 4,
-      "main_question": "Come si calcolano e verificano le ferie maturate e i ROL? È legale imputare come ferie un giorno festivo lavorato in turno notturno? Si può rifiutare di firmare un addendum che modifica l'orario di lavoro?",
-      "content_idea": "Post educativo: 'Ferie, ROL e turni: i tuoi diritti in busta paga spiegati chiaramente – come controllare il tuo contatore e quando puoi dire no a un addendum contrattuale'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Decreto Coesione: Incentivi e Bonus Assunzioni",
-      "frequency": "Media",
-      "post_count": 3,
-      "main_question": "Come funziona il Decreto Coesione per le assunzioni under 35 e i bonus da 500€ collegati? A chi spettano e come si richiedono?",
-      "content_idea": "Video esplicativo: 'Decreto Coesione 2025: tutti gli incentivi per assumere under 35 – chi ne beneficia, come richiederli e quanto vale il bonus'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Tutele in Ambienti di Lavoro Irregolari o Ostili",
-      "frequency": "Media",
-      "post_count": 2,
-      "main_question": "Come ci si tutela in un'azienda che gestisce in modo scorretto permessi, straordinari e presenze, o in cui si subiscono discriminazioni senza testimoni pronti a collaborare?",
-      "content_idea": "Post/video: 'Lavoro in un'azienda scorretta: come raccogliere prove, tutelarti legalmente e denunciare anche senza testimoni – la guida pratica per il lavoratore'.",
-      "subreddits": [
-        "r/consulentidellavoro"
-      ]
-    },
-    {
-      "trend_name": "Supporto Formazione e Lavoro (SFL) e Misure di Politica Attiva",
+      "trend_name": "Contratto di apprendistato: trappole e diritti del lavoratore",
       "frequency": "Bassa",
       "post_count": 1,
-      "main_question": "Quanto è impegnativo concretamente il percorso SFL (Supporto Formazione e Lavoro) in termini di ore e frequenza dei corsi obbligatori?",
-      "content_idea": "Reel informativo: 'SFL 2025: cos'è, come funziona e quanto tempo richiede davvero – la guida per chi vuole organizzarsi con i corsi obbligatori'.",
+      "main_question": "È legittimo un contratto di apprendistato professionalizzante che non indica la RAL e che limita il diritto di recesso del lavoratore durante i 3 anni formativi?",
+      "content_idea": "Reel: '3 clausole da controllare PRIMA di firmare un contratto di apprendistato – cosa può e non può fare il datore di lavoro'.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Pressioni aziendali per indurre alle dimissioni",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Come tutelarsi quando il datore di lavoro esercita pressioni informali per spingere il dipendente a lasciare, propone accordi per accedere alla NASpI o assegna mansioni non contrattuali come forma di mobbing?",
+      "content_idea": "Video: 'Ti stanno spingendo a dimetterti? Ecco cosa NON devi firmare e come documentare la situazione' – guida pratica su lettere di richiamo, accordi aziendali e tutele legali.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Straordinari e ore non pagate: lavoro nero 'parziale'",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Cosa si può fare se il datore di lavoro impone di timbrare prima e finire dopo senza pagare le ore extra? Chi risponde di una multa presa durante una consegna lavorativa?",
+      "content_idea": "Carosello: 'Ore non pagate e responsabilità sul lavoro: i tuoi diritti in 5 situazioni reali' – dalla timbratura forzata alle multe durante le consegne.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Datore di lavoro irregolare: contratti, stipendi e TFR non corrisposti",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Come tutelarsi con un datore di lavoro che non consegna il contratto firmato, trattiene lo stipendio, non emette buste paga e non versa il TFR? Chi risponde in caso di appalto/subappalto (es. consegne per conto di grandi catene)?",
+      "content_idea": "Video: 'Il datore non ti paga e non ti dà il contratto? Ecco i 4 passi concreti da fare subito' – dall'Ispettorato del Lavoro all'azione legale.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Fringe benefit e rimborsi spese: ottimizzazione fiscale per i dipendenti",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "Quali strumenti legali esistono per coprire le spese di viaggio casa-lavoro oltre il limite dei 1.000€ di esenzione fringe benefit? Come gestire auto aziendale, buoni benzina e Telepass senza incorrere in tassazione?",
+      "content_idea": "Post tecnico/carosello: 'Rimborsi spese viaggio 2025: tutto quello che puoi chiedere al datore di lavoro (e che è esente da tasse)' – fringe benefit, welfare, indennità e auto aziendale a confronto.",
+      "subreddits": [
+        "r/consulentidellavoro"
+      ]
+    },
+    {
+      "trend_name": "Disparità contrattuale e tutele per categorie protette",
+      "frequency": "Media",
+      "post_count": 2,
+      "main_question": "È legittima la disparità salariale tra dipendenti diretti e consulenti che svolgono la stessa mansione nello stesso luogo? Quali tutele ha un lavoratore iscritto alle categorie protette (L. 68/99) di fronte a domande discriminatorie in fase di colloquio e a condizioni contrattuali sospette?",
+      "content_idea": "Video: 'Stesso lavoro, stipendio diverso: quando è legale e quando no – più i diritti delle categorie protette che (quasi) nessuno conosce'.",
       "subreddits": [
         "r/consulentidellavoro"
       ]
